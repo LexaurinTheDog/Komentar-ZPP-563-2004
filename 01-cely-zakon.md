@@ -590,11 +590,21 @@ Zařazení do vyššího stupně podmiňuje: (a) výkon **specializovaných, met
 
 > **§ 29a**
 >
-> *(1) Za bezúhonnou se pro účely tohoto zákona nepovažuje a) při posuzování předpokladů pro výkon činnosti pedagogického pracovníka (§ 3) nebo žádosti o udělení akreditace vzdělávací instituce (§ 26) nebo akreditace vzdělávacího programu (§ 27) fyzická osoba, která byla pravomocně odsouzena 1. za trestný čin spáchaný úmyslně, nebo 2. za trestný čin spáchaný z nedbalosti v souvislosti s výkonem činnosti pedagogického pracovníka, pokud se na ni podle zákona nehledí, jako by nebyla odsouzena, b) při posuzování žádosti o udělení akreditace vzdělávací instituce (§ 26) nebo akreditace vzdělávacího programu (§ 27) právnická osoba, která byla pravomocně odsouzena pro trestný čin, pokud pro tento trestný čin neskýtá záruku řádného uskutečňování akreditovaného vzdělávacího programu a pokud se na ni podle zákona nehledí, jako by odsouzena nebyla.*
+> *(1) Za bezúhonnou se pro účely tohoto zákona nepovažuje*
 >
-> *(2) Fyzická osoba prokazuje bezúhonnost v případě podle odstavce 1 písm. a) před vznikem pracovněprávního vztahu nebo při podání žádosti o akreditaci předložením výpisu z evidence Rejstříku trestů; výpis nesmí být starší než 3 měsíce. (...)*
+> *- a) při posuzování předpokladů pro výkon činnosti pedagogického pracovníka (§ 3) nebo žádosti o udělení akreditace vzdělávací instituce (§ 26) nebo akreditace vzdělávacího programu (§ 27) fyzická osoba, která byla pravomocně odsouzena*
 >
-> *(3) Bezúhonnost právnické osoby se v případě podle odstavce 1 písm. b) prokazuje výpisem z evidence Rejstříku trestů. Výpis z evidence Rejstříku trestů si vyžádá ministerstvo podle jiného právního předpisu. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.*
+> *- 1. za trestný čin spáchaný úmyslně, nebo*
+>
+> *- 2. za trestný čin spáchaný z nedbalosti v souvislosti s výkonem činnosti pedagogického pracovníka,*
+>
+> *pokud se na ni podle zákona nehledí, jako by nebyla odsouzena,*
+>
+> *- b) při posuzování žádosti o udělení akreditace vzdělávací instituce (§ 26) nebo akreditace vzdělávacího programu (§ 27) právnická osoba, která byla pravomocně odsouzena pro trestný čin, pokud pro tento trestný čin neskýtá záruku řádného uskutečňování akreditovaného vzdělávacího programu a pokud se na ni podle zákona nehledí, jako by odsouzena nebyla.*
+>
+> *(2) Fyzická osoba prokazuje bezúhonnost v případě podle odstavce 1 písm. a) před vznikem pracovněprávního vztahu nebo při podání žádosti o akreditaci předložením výpisu z evidence Rejstříku trestů; výpis nesmí být starší než 3 měsíce. Cizinec, který je nebo byl státním občanem jiného členského státu Evropské unie nebo má nebo měl adresu bydliště v jiném členském státě Evropské unie, může místo výpisu z evidence obdobné Rejstříku trestů doložit bezúhonnost výpisem z Rejstříku trestů s přílohou obsahující informace, které jsou zapsané v evidenci trestů jiného členského státu Evropské unie podle jiného právního předpisu15). Cizinec, který není nebo nebyl státním občanem jiného členského státu Evropské unie nebo nemá nebo neměl adresu bydliště v jiném členském státě Evropské unie, prokazuje bezúhonnost dokladem obdobným výpisu z evidence Rejstříku trestů státu, jehož je státním příslušníkem, nebo výpisem z evidence Rejstříku trestů, v jehož příloze jsou tyto informace obsaženy. Nevydává-li tento stát výpis z evidence trestů nebo rovnocenný doklad, předloží fyzická osoba čestné prohlášení o bezúhonnosti učiněné před notářem nebo jiným příslušným orgánem státu, jehož je občanem, nebo před notářem nebo jiným příslušným orgánem státu posledního pobytu. Tyto doklady nesmí být starší než 3 měsíce. V průběhu trvání pracovněprávního vztahu je pedagogický pracovník povinen informovat do 10 pracovních dnů ředitele školy nebo ředitele zařízení sociálních služeb o tom, že byl pravomocně odsouzen za trestný čin, jímž by mohl pozbýt předpoklad bezúhonnosti; do 1 měsíce od nabytí právní moci rozsudku předloží pedagogický pracovník nový výpis z evidence Rejstříku trestů.*
+>
+> *(3) Bezúhonnost právnické osoby se v případě podle odstavce 1 písm. b) prokazuje výpisem z evidence Rejstříku trestů. Výpis z evidence Rejstříku trestů si vyžádá ministerstvo podle jiného právního předpisu15). Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.*
 
 **Výklad:** Klíčová definiční norma **bezúhonnosti** podle § 3 odst. 1 písm. c). Za nebezúhonného se považuje: (a) FO odsouzená za **úmyslný trestný čin** (jakýkoliv), (b) FO odsouzená za **nedbalostní trestný čin v souvislosti s pedagogickou činností** (např. nedbalostně způsobená újma žákovi při akci školy). Pokud byl rejstřík **zahlazen** (odsouzení se nehledí), bezúhonnost je obnovena.
 
@@ -678,13 +688,13 @@ Odst. 2 explicitně vylučuje **psychologa** ze všech těchto úlev — výkon 
 >
 > *Zrušuje se:*
 >
-> *1. Nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství.*
+> *- 1. Nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství.*
 >
-> *2. Nařízení vlády č. 153/1999 Sb., kterým se mění nařízení vlády č. 68/1997 Sb. (...).*
+> *- 2. Nařízení vlády č. 153/1999 Sb., kterým se mění nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství.*
 >
-> *3. Nařízení vlády č. 400/2002 Sb., kterým se mění nařízení vlády č. 68/1997 Sb. (...).*
+> *- 3. Nařízení vlády č. 400/2002 Sb., kterým se mění nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství.*
 >
-> *4. Vyhláška č. 139/1997 Sb., o podmínkách odborné a pedagogické způsobilosti pedagogických pracovníků a o předpokladech kvalifikace výchovných poradců.*
+> *- 4. Vyhláška č. 139/1997 Sb., o podmínkách odborné a pedagogické způsobilosti pedagogických pracovníků a o předpokladech kvalifikace výchovných poradců.*
 
 **Výklad:** Zrušovací klauzule — k 1. lednu 2005 byly zrušeny: nařízení vlády č. 68/1997 Sb. o míře vyučovací povinnosti (nahrazeno nařízením vlády č. 75/2005 Sb.) a klíčová vyhláška č. 139/1997 Sb. o pedagogické způsobilosti (její funkce převzal nový zákon přímo). ZPP tak nahradil dosavadní podzákonnou úpravu zákonnou.
 
