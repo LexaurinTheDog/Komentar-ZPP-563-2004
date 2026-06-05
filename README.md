@@ -8,6 +8,10 @@ Paritní ke [školskému zákonu 561/2004](/home/vojtech/Komentar-SZ-561-2004/).
 ## Metoda
 AI komentář **výhradně z lokálních materiálů**.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
