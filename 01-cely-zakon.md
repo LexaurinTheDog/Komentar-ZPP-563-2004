@@ -78,6 +78,11 @@ Výčet kategorií v odstavci 2 je **taxativní** — kdo není v některé z dv
 
 Důsledkem postavení pedagogického pracovníka je aplikace celého ZPP — povinnost splňovat předpoklady podle § 3, nárok na zvláštní rozvržení pracovní doby podle § 22a, redukovaný rozsah přímé pedagogické činnosti podle § 23, minimální 12měsíční doba pracovního poměru na dobu určitou (§ 23a) a 12 dnů volna k samostudiu (§ 24 odst. 7).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 38/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-23_1) — nález, 6. 12. 2023
+  > „Obsahem napadených zákonných ustanovení je totiž pouze zavedení institutu školského logopeda jako pracovníka, který přímým působením na vzdělávaného uskutečňuje výchovu a vzdělávání na základě zvláštního právního předpisu ["přímá pedagogická činnost"; § 2 odst. 1 a § 2 odst. 2 písm. e) zákona č. 563/2004 Sb.]. … podle napadené zákonné úpravy je činnost školského logopeda definována jako pedagogická činnost, školský logoped je označen jako "pedagogický pracovník" a pro výkon této činnosti je nutné získat odbornou kvalifikaci v oboru pedagogických věd"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Základní škola zaměstnává paní U. jako „chůvu" ve třídě s dětmi se speciálními vzdělávacími potřebami. U. samostatně vede skupinu žáků při relaxačních a nácvikových aktivitách a fakticky uskutečňuje výchovně-vzdělávací činnost přímým působením na žáky. Ředitel ji vede jako nepedagogického zaměstnance (provozní pozice) a neaplikuje na ni žádnou normu ZPP. Kontrola České školní inspekce zpochybňuje toto zařazení. Důkazy: pracovní náplň, rozvrh činnosti U., svědectví učitelů o povaze její práce.
@@ -129,6 +134,11 @@ Postavení pedagogického pracovníka se určuje materiálně (obsah činnosti) 
 **Výklad:** Pět kumulativních předpokladů pro výkon činnosti pedagogického pracovníka — všechny musí být splněny současně. **Plná svéprávnost** se posuzuje podle § 30 a násl. občanského zákoníku — nezletilý ani osoba omezená rozhodnutím soudu pedagogickým pracovníkem být nemůže. **Odborná kvalifikace** je definována zvlášť pro každou kategorii pedagogického pracovníka a každý druh školy (§§ 6–21); její nesplnění lze překlenout instituty z § 22 odst. 11 (nezbytně nutná doba a rozsah), § 9a (uznání po dobu nejdéle 3 let) nebo přechodnými ustanoveními § 32. **Bezúhonnost** je legálně definována v § 29a — nepostačuje pouhý čistý trestní rejstřík, posuzuje se každé úmyslné odsouzení, nedbalostní jen v souvislosti s výkonem činnosti pedagoga. **Zdravotní způsobilost** se posuzuje pracovnělékařskou prohlídkou. **Znalost češtiny** je upravena v § 4.
 
 Odstavec 3 odkazuje na zákon č. 18/2004 Sb., o uznávání odborné kvalifikace — pro občany EU a kvalifikované cizince platí zvláštní režim posuzování v rámci uznávacího řízení vedeného Ministerstvem školství, mládeže a tělovýchovy.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 161/2016 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/640336) — 10. 11. 2016
+  > „Nejvyšší správní soud je ve shodě s krajským soudem toho názoru, že předmětné ustanovení školského zákona, resp. prováděcí vyhlášku lze podřadit pod oblast pracovního práva, neboť jde o zvláštní úpravu postupu zaměstnavatele před vznikem pracovního poměru ve smyslu § 30 zákona č. 262/2006 Sb., zákoníku práce, ve znění pozdějších předpisů … To stejné platí i pro namítané pochybení žalovaného spočívající v nesprávné aplikaci § 3 a § 4 zákona o pedagogických pracovnících ve vztahu k prokázání kvalifikačního předpokladu (znalosti českého jazyka)"
 
 #### F. Kazuistika
 
@@ -183,6 +193,11 @@ Pět předpokladů podle § 3 je kumulativních a každý je samostatnou nutnou 
 
 **Výklad:** Ustanovení promítá § 3 odst. 1 písm. e) do procesního požadavku. Standardní úroveň je **B2** (samostatný uživatel), pro **MŠ a 1. stupeň ZŠ** je požadována **C1** (zkušený uživatel) — vyšší laťka odráží, že právě u nejmenších dětí má učitel klíčový vliv na rozvoj jejich mateřského jazyka. Zkoušku přijímá pouze trojí typ poskytovatele: VŠ v programu celoživotního vzdělávání, zařízení pro DVPP, nebo jazyková škola s právem státní jazykové zkoušky. Výjimky v odstavci 4 zohledňují praktickou nepotřebnost zkoušky (škola s jiným vyučovacím jazykem, výuka cizího jazyka, učitel s českou maturitou). Pro učitele MŠ a 1. stupně ZŠ (§ 6, § 7) nelze česká úroveň prokázat zahraniční zkouškou — vždy musí být doložena tuzemskou institucí.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 161/2016 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/640336) — 10. 11. 2016
+  > „Nejvyšší správní soud je ve shodě s krajským soudem toho názoru, že předmětné ustanovení školského zákona, resp. prováděcí vyhlášku lze podřadit pod oblast pracovního práva, neboť jde o zvláštní úpravu postupu zaměstnavatele před vznikem pracovního poměru ve smyslu § 30 zákona č. 262/2006 Sb., zákoníku práce, ve znění pozdějších předpisů … To stejné platí i pro namítané pochybení žalovaného spočívající v nesprávné aplikaci § 3 a § 4 zákona o pedagogických pracovnících ve vztahu k prokázání kvalifikačního předpokladu (znalosti českého jazyka)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Slovenská občanka B. získala magisterské vzdělání v oboru učitelství pro 1. stupeň ZŠ na Slovensku (vyučovacím jazykem slovenština). Uchází se o místo učitelky 1. stupně v české ZŠ. Předkládá doklad o uznání odborné kvalifikace a slovenský doklad o jazykové zkoušce z češtiny na úrovni B2. Ředitel váhá, zda tento doklad postačuje. Důkazy: diplom, rozhodnutí o uznání kvalifikace, slovenský certifikát z češtiny B2.
@@ -233,6 +248,11 @@ Znalost češtiny se prokazuje diferencovaně: standardně B2, u učitelů MŠ a
 **Výklad:** Ředitel školy je zvláštní kategorií pedagogického pracovníka — kromě obecných předpokladů podle § 3 musí splnit **kvalifikovanou praxi** (3/4/5 let podle druhu školy) a u veřejných škol též **studium pro ředitele** podle § 24 odst. 2 (tzv. „kvalifikační studium F1" v rámci DVPP). Praxe nemusí být výhradně pedagogická — uznává se též činnost se znalostmi obdobného zaměření (například právník v MŠMT) i čistě řídící praxe či výzkumná činnost. Studium pro ředitele musí být absolvováno **do 3 let** od zahájení funkce; nesplnění této lhůty je důvodem pro odvolání podle § 166 odst. 5 školského zákona.
 
 Odstavec 3 zakládá tzv. **kvalifikační ekvivalent** — magisterské či bakalářské studium oboru „školský management" nebo „andragogika a management" splňuje požadavek studia pro ředitele již z titulu vysokoškolského vzdělání. Pro ředitele soukromých a církevních škol povinnost studia pro ředitele neplatí (odst. 2 omezuje povinnost na školy veřejné).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 42/2021 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705854) — 23. 11. 2022
+  > „Vhodné je i poukázat na znění § 5 zákona o pedagogických pracovnících, které vyžaduje splnění předpokladů podle § 3, neurčuje již však, jakým konkrétním způsobem toho musí být dosaženo. Pokud by zákonodárce vyžadoval na pozici ředitele školy pedagogického pracovníka, který získal odbornou kvalifikaci výhradně cestou studia, tuto podmínku by do znění zákona zakotvil"
 
 #### F. Kazuistika
 
@@ -1089,6 +1109,11 @@ Speciální pedagog patří k nejnáročnějším kategoriím — vyžaduje magi
 > *Školský logoped získává odbornou kvalifikaci studiem pro přípravu školských logopedů a vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd a) zaměřené na speciální pedagogiku se státní závěrečnou zkouškou z logopedie a surdopedie, který nenavazuje na akreditovaný bakalářský studijní program, b) zaměřené na speciální pedagogiku se státní závěrečnou zkouškou z logopedie a surdopedie, který navazuje na akreditovaný bakalářský studijní program speciální pedagogika, nebo c) zaměřené na logopedii se státní závěrečnou zkouškou z logopedie a surdopedie.*
 
 **Výklad:** Školský logoped je odlišný od **klinického logopeda** (zdravotnické povolání podle zákona č. 96/2004 Sb.) — působí ve **školství** (logopedické třídy v MŠ a ZŠ, SPC pro děti s vadami řeči). Vyžaduje **vždy magistra** v oblasti pedagogických věd zaměřené na speciální pedagogiku nebo logopedii **se státní závěrečnou zkouškou z logopedie a surdopedie** + dodatečné **studium pro přípravu školských logopedů**. Tato kategorie byla zavedena novelou z důvodu rozlišení dvou paralelních logopedických světů — školství a zdravotnictví.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 38/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-23_1) — nález, 6. 12. 2023
+  > „výslovnou úpravou kvalifikačních požadavků dochází fakticky k vyčlenění školského logopeda z obecnější kategorie speciálního pedagoga s tím, že je zvlášť pro tyto pedagogy stanovena kvalifikační podmínka absolvování zkoušky z logopedie a surdopedie. … obecně lze považovat zákonnou úpravu řešící personální stránku vzdělávání a vymezující nároky na vzdělání pedagogických pracovníků za sledující legitimní cíl. Konkrétně je sledován zájem na kvalitě a dostupnosti vzdělávání, a to i pro děti se speciálními vzdělávacími potřebami"
 
 #### F. Kazuistika
 
