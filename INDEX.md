@@ -15,3 +15,7 @@
 
 ## Vazby
 [ŠZ 561/2004](/home/vojtech/Komentar-SZ-561-2004/) (paritní), [ZP 262/2006](/home/vojtech/Komentar-ZP-262-2006/), NV 341/2017 (platové třídy).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
