@@ -1,33 +1,37 @@
-# Zásady z místní judikatury — Komentář k zákonu č. 563/2004 Sb., o pedagogických pracovnících (ZPP)
+# Právní zásady a judikatorní teze — Komentář k zákonu č. 563/2004 Sb., o pedagogických pracovnících
 
-> Tento soubor je aditivní přehled právních zásad a judikatorních tezí vytěžených výhradně z místní složky [judikatura/](judikatura/README.md). Nezasahuje do existujících citací v komentáři a nic z původní judikatury nenahrazuje ani nemaže.
+> Tento soubor je aditivní přehled právních zásad a judikatorních tezí vytěžených výhradně z místních pramenů tohoto repozitáře. Judikatorní část vychází ze složky [judikatura/](judikatura/README.md). Nezasahuje do existujících citací v komentáři a nic z původní judikatury nenahrazuje ani nemaže.
 
 ## Metoda
 
-Zdrojem jsou pouze lokální markdownové karty rozhodnutí uložené v tomto repozitáři ve složce `judikatura/`. Převzaty jsou právní věty a doslovné citované pasáže uvedené v těchto kartách; odkazy níže vedou na místní soubor rozhodnutí, nikoli na externí zdroj. Pokud místní judikatura k ustanovení neobsahuje přiléhavou právní větu nebo citovanou pasáž, není žádná zásada doplněna.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře. Judikatorní část přebírá právní věty a doslovné citované pasáže z markdownových karet ve složce `judikatura/`; případná část o výslovně vyložených zákonných zásadách vychází z místního znění předpisu a místních kapitol komentáře. Odkazy na veřejné databáze slouží výhradně k ověření identity pramene; žádná teze z externího webu vytěžována není.
+
+Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného výroku a skutkového kontextu rozhodnutí.
+
+**Oficiální znění komentovaného předpisu:** [563/2004 Sb.](https://e-sbirka.gov.cz/sb/2004/563)
 
 Vytěženy byly 4 judikatorní teze z 3 místních rozhodnutí.
 
 ## Přehled podle ustanovení
 
-### § 2 — Pedagogický pracovník
+### [§ 2 — Pedagogický pracovník](https://e-sbirka.gov.cz/sb/2004/563#par_2)
 
-- *ÚS* [Pl.ÚS 38/23](judikatura/US-Pl-S-38-23.md) — nález, 6. 12. 2023
+- *ÚS* [Pl.ÚS 38/23](judikatura/US-Pl-S-38-23.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-23_1)) — nález, 6. 12. 2023, citovaná pasáž
   > „Obsahem napadených zákonných ustanovení je totiž pouze zavedení institutu školského logopeda jako pracovníka, který přímým působením na vzdělávaného uskutečňuje výchovu a vzdělávání na základě zvláštního právního předpisu ["přímá pedagogická činnost"; § 2 odst. 1 a § 2 odst. 2 písm. e) zákona č. 563/2004 Sb.]. … podle napadené zákonné úpravy je činnost školského logopeda definována jako pedagogická činnost, školský logoped je označen jako "pedagogický pracovník" a pro výkon této činnosti je nutné získat odbornou kvalifikaci v oboru pedagogických věd“
 
-### § 3 — Předpoklady pro výkon činnosti pedagogického pracovníka
+### [§ 3 — Předpoklady pro výkon činnosti pedagogického pracovníka](https://e-sbirka.gov.cz/sb/2004/563#par_3)
 
-- *NSS* [7 As 161/2016 - 62](judikatura/NSS-7-As-161-2016-62.md) — 10. 11. 2016
+- *NSS* [7 As 161/2016 - 62](judikatura/NSS-7-As-161-2016-62.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/640336)) — 10. 11. 2016, citovaná pasáž
   > „Nejvyšší správní soud je ve shodě s krajským soudem toho názoru, že předmětné ustanovení školského zákona, resp. prováděcí vyhlášku lze podřadit pod oblast pracovního práva, neboť jde o zvláštní úpravu postupu zaměstnavatele před vznikem pracovního poměru ve smyslu § 30 zákona č. 262/2006 Sb., zákoníku práce, ve znění pozdějších předpisů … To stejné platí i pro namítané pochybení žalovaného spočívající v nesprávné aplikaci § 3 a § 4 zákona o pedagogických pracovnících ve vztahu k prokázání kvalifikačního předpokladu (znalosti českého jazyka)“
 
-### § 5 — Předpoklady pro výkon činnosti ředitele školy
+### [§ 5 — Předpoklady pro výkon činnosti ředitele školy](https://e-sbirka.gov.cz/sb/2004/563#par_5)
 
-- *NSS* [2 As 42/2021 - 30](judikatura/NSS-2-As-42-2021-30.md) — 23. 11. 2022
+- *NSS* [2 As 42/2021 - 30](judikatura/NSS-2-As-42-2021-30.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705854)) — 23. 11. 2022, citovaná pasáž
   > „Vhodné je i poukázat na znění § 5 zákona o pedagogických pracovnících, které vyžaduje splnění předpokladů podle § 3, neurčuje již však, jakým konkrétním způsobem toho musí být dosaženo. Pokud by zákonodárce vyžadoval na pozici ředitele školy pedagogického pracovníka, který získal odbornou kvalifikaci výhradně cestou studia, tuto podmínku by do znění zákona zakotvil“
 
-### § 18a — Školský logoped
+### [§ 18a — Školský logoped](https://e-sbirka.gov.cz/sb/2004/563#par_18a)
 
-- *ÚS* [Pl.ÚS 38/23](judikatura/US-Pl-S-38-23.md) — nález, 6. 12. 2023
+- *ÚS* [Pl.ÚS 38/23](judikatura/US-Pl-S-38-23.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-23_1)) — nález, 6. 12. 2023, citovaná pasáž
   > „výslovnou úpravou kvalifikačních požadavků dochází fakticky k vyčlenění školského logopeda z obecnější kategorie speciálního pedagoga s tím, že je zvlášť pro tyto pedagogy stanovena kvalifikační podmínka absolvování zkoušky z logopedie a surdopedie. … obecně lze považovat zákonnou úpravu řešící personální stránku vzdělávání a vymezující nároky na vzdělání pedagogických pracovníků za sledující legitimní cíl. Konkrétně je sledován zájem na kvalitě a dostupnosti vzdělávání, a to i pro děti se speciálními vzdělávacími potřebami“
 
 ---
@@ -51,7 +55,7 @@ Vytěženy byly 4 judikatorní teze z 3 místních rozhodnutí.
 
 ### 1. Legitimní účel úpravy — kvalita a dostupnost vzdělávání *(ratio legis)*
 
-**Zakotvení:** § 1, § 2, § 3
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2004/563#par_1), [§ 2](https://e-sbirka.gov.cz/sb/2004/563#par_2), [§ 3](https://e-sbirka.gov.cz/sb/2004/563#par_3)
 
 Zákon o pedagogických pracovnících je svou povahou statusovým a kvalifikačním kodexem. Vymezuje, na koho vůbec dopadá (§ 1), kdo je pedagogickým pracovníkem (§ 2) a jaké kumulativní předpoklady musí splnit ten, kdo chce pedagogickou činnost vykonávat (§ 3 — plná svéprávnost, odborná kvalifikace, bezúhonnost, zdravotní způsobilost a znalost českého jazyka). Tato soustava požadavků není samoúčelná. Sleduje legitimní cíl spočívající v ochraně veřejného zájmu na řádném výkonu výchovy a vzdělávání — tedy v zajištění kvality poskytovaného vzdělávání a současně jeho dostupnosti, a to i pro děti se speciálními vzdělávacími potřebami.
 
@@ -63,12 +67,12 @@ Zásada zároveň vytváří rámec pro poměřování s jinými hodnotami — z
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *ÚS* [Pl.ÚS 38/23](judikatura/US-Pl-S-38-23.md) — nález, 6. 12. 2023
+- *ÚS* [Pl.ÚS 38/23](judikatura/US-Pl-S-38-23.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-23_1)) — nález, 6. 12. 2023
   > „obecně lze považovat zákonnou úpravu řešící personální stránku vzdělávání a vymezující nároky na vzdělání pedagogických pracovníků za sledující legitimní cíl. Konkrétně je sledován zájem na kvalitě a dostupnosti vzdělávání, a to i pro děti se speciálními vzdělávacími potřebami"
 
 ### 2. Materiální a taxativní pojetí pedagogického pracovníka
 
-**Zakotvení:** § 1, § 2
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2004/563#par_1), [§ 2](https://e-sbirka.gov.cz/sb/2004/563#par_2)
 
 Zásada materiálního a taxativního pojetí pedagogického pracovníka vyjadřuje způsob, jímž zákon o pedagogických pracovnících vymezuje okruh osob, na které dopadá. Postavení pedagogického pracovníka není určeno jediným kritériem, nýbrž současným naplněním dvou znaků — znaku funkčního a znaku statusového. Funkční znak spočívá ve výkonu přímé pedagogické činnosti, kterou zákon v § 2 odst. 1 definuje jako přímou vyučovací, přímou výchovnou, přímou speciálněpedagogickou, přímou sociálněpedagogickou nebo přímou pedagogicko-psychologickou činnost „přímým působením na vzdělávaného, kterým uskutečňuje výchovu a vzdělávání na základě zvláštního právního předpisu". Statusový znak spočívá v tom, že osoba musí být zaměstnancem některého ze zákonem vymezených subjektů, popřípadě ředitelem školy. Teprve spojení obou znaků zakládá postavení pedagogického pracovníka se všemi důsledky, které z něj plynou.
 
@@ -84,7 +88,7 @@ Praktické důsledky jsou dalekosáhlé. Na osobu, která je pedagogickým praco
 
 ### 3. Odborná kvalifikace jako podmínka výkonu pedagogické činnosti *(conditio sine qua non)*
 
-**Zakotvení:** § 3 odst. 1 písm. b), § 6 až § 22
+**Zakotvení:** [§ 3](https://e-sbirka.gov.cz/sb/2004/563#par_3) odst. 1 písm. b), [§ 6](https://e-sbirka.gov.cz/sb/2004/563#par_6) až [§ 22](https://e-sbirka.gov.cz/sb/2004/563#par_22)
 
 Zásada vyjadřuje, že přímou pedagogickou činnost může zásadně vykonávat jen ten, kdo získal odbornou kvalifikaci předepsanou pro tu činnost, kterou fakticky vykonává. Zákon v § 3 odst. 1 písm. b) stanoví, že pedagogickým pracovníkem může být ten, kdo „má odbornou kvalifikaci pro přímou pedagogickou činnost, kterou vykonává". Kvalifikace tak není abstraktní osvědčení o dosaženém vzdělání, nýbrž vazba mezi konkrétním vzděláním a konkrétní vykonávanou činností: kvalifikace získaná pro jednu kategorii nebo druh školy nezakládá bez dalšího způsobilost k činnosti jiné.
 
@@ -98,7 +102,7 @@ Zásada úzce souvisí se zásadou kumulativního splnění předpokladů podle 
 
 ### 4. Zákaz dovozovat kvalifikační požadavky nad rámec zákona *(argumentum a contrario)*
 
-**Zakotvení:** § 5, § 22
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2004/563#par_5), [§ 22](https://e-sbirka.gov.cz/sb/2004/563#par_22)
 
 Zásada vyjadřuje jedno z klasických interpretačních pravidel veřejného práva: podmínku, kterou zákon adresátovi normy výslovně neukládá, nelze klást k jeho tíži. Vymezuje-li zákon o pedagogických pracovnících určité kvalifikační předpoklady, avšak neurčuje konkrétní způsob, jakým jich má být dosaženo, nelze cestu k jejich splnění výkladem zužovat. Mlčení zákonodárce o způsobu získání kvalifikace zde není mezerou, kterou by měl aplikující orgán vyplnit dalšími požadavky, nýbrž záměrným ponecháním otevřenosti — kdyby zákonodárce chtěl určitou cestu předepsat či naopak vyloučit, učinil by tak výslovně. Jde o klasické užití argumentu *a contrario*: z toho, že norma jednu podmínku stanoví a jinou nikoli, plyne, že tu druhou stanovit nechtěla.
 
@@ -110,12 +114,12 @@ Praktickým důsledkem je, že správní orgány (zejména zřizovatelé a Česk
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [2 As 42/2021 - 30](judikatura/NSS-2-As-42-2021-30.md) — rozsudek, 23. 11. 2022
+- *NSS* [2 As 42/2021 - 30](judikatura/NSS-2-As-42-2021-30.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705854)) — rozsudek, 23. 11. 2022
   > „Vhodné je i poukázat na znění § 5 zákona o pedagogických pracovnících, které vyžaduje splnění předpokladů podle § 3, neurčuje již však, jakým konkrétním způsobem toho musí být dosaženo. Pokud by zákonodárce vyžadoval na pozici ředitele školy pedagogického pracovníka, který získal odbornou kvalifikaci výhradně cestou studia, tuto podmínku by do znění zákona zakotvil"
 
 ### 5. Bezúhonnost jako předpoklad a ochrana dítěte
 
-**Zakotvení:** § 3 odst. 1 písm. c), § 29a
+**Zakotvení:** [§ 3](https://e-sbirka.gov.cz/sb/2004/563#par_3) odst. 1 písm. c), [§ 29a](https://e-sbirka.gov.cz/sb/2004/563#par_29a)
 
 Bezúhonnost je jedním z pěti kumulativních předpokladů pro výkon činnosti pedagogického pracovníka. Podle § 3 odst. 1 písm. c) může být pedagogickým pracovníkem jen ten, kdo je bezúhonný; obsah tohoto pojmu přitom zákon nenechává na volné úvaze zaměstnavatele, nýbrž jej pro své účely sám legálně vymezuje v § 29a. Bezúhonnost tak není totožná s pouhým „čistým" trestním rejstříkem: zákon staví jasnou hranici mezi tím, které odsouzení způsobilost k pedagogické činnosti vylučuje, a tím, které jí nebrání.
 
@@ -129,7 +133,7 @@ Ve vztahu k ostatním předpokladům § 3 zaujímá bezúhonnost pevné postaven
 
 ### 6. Osobní způsobilost — svéprávnost, zdravotní a jazyková způsobilost
 
-**Zakotvení:** § 3 a § 4
+**Zakotvení:** [§ 3](https://e-sbirka.gov.cz/sb/2004/563#par_3) a [§ 4](https://e-sbirka.gov.cz/sb/2004/563#par_4)
 
 Vedle odborné kvalifikace a bezúhonnosti klade zákon na pedagogického pracovníka soubor osobních předpokladů, které se vztahují k jeho vlastní osobě a schopnosti řádně vykonávat přímou pedagogickou činnost: plnou svéprávnost [§ 3 odst. 1 písm. a)], zdravotní způsobilost [§ 3 odst. 1 písm. d)] a prokázanou znalost českého jazyka [§ 3 odst. 1 písm. e), rozvedenou v § 4]. Podle § 3 odst. 1 platí, že „pedagogickým pracovníkem může být ten, kdo splňuje tyto předpoklady" — výčet je uvozen jako soubor podmínek, které musí být naplněny současně. Osobní způsobilost tak tvoří samostatnou skupinu vedle kvalifikačních a mravnostních předpokladů a každá její složka je nutnou podmínkou výkonu činnosti.
 
@@ -143,7 +147,7 @@ Všechny tyto předpoklady jsou kumulativní: selhání jediné složky osobní 
 
 ### 7. Zvláštní pracovněprávní ochrana pedagogického pracovníka *(lex specialis k zákoníku práce)*
 
-**Zakotvení:** § 22a, § 23, § 23a a § 24 odst. 7
+**Zakotvení:** [§ 22a](https://e-sbirka.gov.cz/sb/2004/563#par_22a), [§ 23](https://e-sbirka.gov.cz/sb/2004/563#par_23), [§ 23a](https://e-sbirka.gov.cz/sb/2004/563#par_23a) a [§ 24](https://e-sbirka.gov.cz/sb/2004/563#par_24) odst. 7
 
 Zákon o pedagogických pracovnících nevytváří samostatný, uzavřený pracovněprávní režim, nýbrž se opírá o zákoník práce a jen v dílčích, přesně vymezených bodech se od něj odchyluje. Tato technika je výslovně vyjádřena v § 23a odst. 1, podle něhož se na pracovní poměr pedagoga „vztahuje zákoník práce, nestanoví-li tento zákon jinak". Zásada zvláštní pracovněprávní ochrany tedy znamená, že ZPP působí jako *lex specialis* — v otázkách jím upravených má přednost, ve všem ostatním se subsidiárně použije obecná pracovněprávní úprava. Smyslem odchylek je přizpůsobit obecné instituty specifikům pedagogické profese, zejména tomu, že práce učitele se neomezuje na přítomnost ve třídě, ale zahrnuje i přípravu, opravy a soustavný profesní rozvoj.
 
@@ -161,7 +165,7 @@ Tato zásada úzce souvisí se zásadou kvalifikovanosti a s ochranným účelem
 
 ### 8. Celoživotní profesní rozvoj a kariérní systém
 
-**Zakotvení:** § 24, § 24a až § 24d, § 29
+**Zakotvení:** [§ 24](https://e-sbirka.gov.cz/sb/2004/563#par_24), [§ 24a](https://e-sbirka.gov.cz/sb/2004/563#par_24a) až [§ 24d](https://e-sbirka.gov.cz/sb/2004/563#par_24d), [§ 29](https://e-sbirka.gov.cz/sb/2004/563#par_29)
 
 Zásada celoživotního profesního rozvoje vyjadřuje pojetí, podle něhož odborná způsobilost pedagogického pracovníka není jednou provždy získaným statickým stavem, nýbrž průběžně udržovanou a prohlubovanou kvalifikací. Zákon proto v § 24 odst. 1 ukládá pedagogickým pracovníkům přímo **povinnost** dalšího vzdělávání „po dobu výkonu své pedagogické činnosti", a to takového, „kterým si obnovují, udržují a doplňují kvalifikaci". Vedle této povinnosti stojí **právo** účastnit se dalšího vzdělávání, jímž si kvalifikaci zvyšují (§ 24 odst. 2). Dvojí modalita — povinnost udržet a právo zvýšit — je jádrem zásady: pedagog nesmí ustrnout na úrovni získané při vstupu do profese, zároveň mu zákon otevírá cestu k dalšímu růstu.
 
@@ -177,7 +181,7 @@ Ve vztahu k ostatním zásadám komentáře zásada celoživotního rozvoje nava
 
 ### 9. Ochrana nabytých kvalifikací a legitimní očekávání
 
-**Zakotvení:** § 30 až § 36
+**Zakotvení:** [§ 30](https://e-sbirka.gov.cz/sb/2004/563#par_30) až [§ 36](https://e-sbirka.gov.cz/sb/2004/563#par_36)
 
 Zásada ochrany nabytých kvalifikací vyjadřuje, že změna zákonné úpravy kvalifikačních požadavků nesmí zpětně zbavit stávající pedagogické pracovníky postavení, které si po právu vytvořili podle dřívějších předpisů. Zákon ji uskutečňuje soustavou přechodných ustanovení (§ 30 až § 36), jimiž překlenuje přechod od dřívější úpravy (zejména vyhlášky č. 139/1997 Sb.) k novému, zpravidla přísnějšímu režimu. Jádrem je § 30: za pedagogické pracovníky podle zákona se považují „též pedagogičtí pracovníci, kteří ke dni účinnosti tohoto zákona splňují předpoklady pro výkon činnosti pedagogického pracovníka podle dosavadních právních předpisů". Kdo tedy ke dni účinnosti zákona (1. ledna 2005) splňoval tehdejší předpoklady, zůstává kvalifikován i podle nové úpravy a pozdější přísnější požadavky se na něj zpětně neuplatní.
 
