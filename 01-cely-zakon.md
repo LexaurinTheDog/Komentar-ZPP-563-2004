@@ -54,6 +54,54 @@ Ustanovení § 1 vymezuje, na koho zákon vůbec dopadá. Před aplikací které
 
 **Typicky rozhodné důkazy / podklady:** výpis z rejstříku škol a školských zařízení, zřizovací listina / živnostenské oprávnění, pracovní smlouva, popis vykonávané činnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=20e25676bef363dbc691 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 1 — Předmět a rozsah úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon upravuje předpoklady pro výkon činnosti pedagogických pracovníků, další vzdělávání pedagogických pracovníků a jejich kariérní systém, odchylky od způsobu rozvržení pracovní doby a zvláštní pravidla pro sjednávání doby trvání pracovního poměru.
+>
+> (2) Tento zákon se vztahuje na pedagogické pracovníky škol a školských zařízení, které jsou zapsány do rejstříku škol a školských zařízení1) (dále jen „škola“), a na pedagogické pracovníky v zařízeních sociálních služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20e25676bef363dbc691 -->
+
 ### § 2 — Pedagogický pracovník
 
 > **§ 2**
@@ -119,6 +167,88 @@ Postavení pedagogického pracovníka se určuje materiálně (obsah činnosti) 
 
 **Typicky rozhodné důkazy / podklady:** pracovní náplň, rozvrh činnosti, popis skutečně vykonávaných úkolů, případně hospitační záznamy a svědectví spolupracovníků.
 
+
+<!-- LEGAL-REVISION:BEGIN id=755d068c25a8911b60cb generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 2 — Pedagogický pracovník
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Pedagogickým pracovníkem je ten, kdo koná přímou vyučovací, přímou výchovnou, přímou speciálněpedagogickou, přímou sociálněpedagogickou nebo přímou pedagogicko-psychologickou činnost přímým působením na vzdělávaného, kterým uskutečňuje výchovu a vzdělávání na základě zvláštního právního předpisu1) (dále jen „přímá pedagogická činnost“), a je
+>
+> - a) zaměstnancem právnické osoby vykonávající činnost školy,
+>
+> - b) zaměstnancem společenství obcí nebo zaměstnancem právnické osoby zřízené nebo založené společenstvím obcí, pokud jeho prostřednictvím zajišťuje příspěvková organizace vykonávající činnost školy nebo školská právnická osoba plnění svých úkolů,
+>
+> - c) zaměstnancem státu, nebo
+>
+> - d) ředitelem školy.
+>
+> Pedagogickým pracovníkem je též zaměstnanec, který vykonává přímou pedagogickou činnost v zařízeních sociálních služeb; písmeno b) se na tohoto zaměstnance vztahuje obdobně.
+>
+> (2) Přímou pedagogickou činnost vykonává
+>
+> - a) učitel,
+>
+> - b) pedagog v zařízení pro další vzdělávání pedagogických pracovníků,
+>
+> - c) vychovatel,
+>
+> - d) speciální pedagog,
+>
+> - e) sociální pedagog,
+>
+> - f) školský logoped,
+>
+> - g) psycholog,
+>
+> - h) pedagog volného času,
+>
+> - i) asistent pedagoga,
+>
+> - j) trenér,
+>
+> - k) metodik prevence v pedagogicko-psychologické poradně20),
+>
+> - l) vedoucí pedagogický pracovník.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=755d068c25a8911b60cb -->
+
 ### HLAVA II — PŘEDPOKLADY PRO VÝKON ČINNOSTI PEDAGOGICKÝCH PRACOVNÍKŮ
 
 ### § 3 — Předpoklady pro výkon činnosti pedagogického pracovníka
@@ -176,6 +306,66 @@ Pět předpokladů podle § 3 je kumulativních a každý je samostatnou nutnou 
 - [ ] Prokázal znalost češtiny podle § 4 (není-li z ní osvobozen)?
 
 **Typicky rozhodné důkazy / podklady:** diplom/doklad o kvalifikaci, výpis z Rejstříku trestů, lékařský posudek o zdravotní způsobilosti, doklad o znalosti češtiny, čestné prohlášení o svéprávnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=0fc3dec4bd2ae82d5452 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 3 — Předpoklady pro výkon činnosti pedagogického pracovníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Pedagogickým pracovníkem může být ten, kdo splňuje tyto předpoklady:
+>
+> - a) je plně svéprávný,
+>
+> - b) má odbornou kvalifikaci pro přímou pedagogickou činnost, kterou vykonává,
+>
+> - c) je bezúhonný,
+>
+> - d) je zdravotně způsobilý a
+>
+> - e) prokázal znalost českého jazyka, není-li dále stanoveno jinak.
+>
+> (2) Posuzování předpokladu podle odstavce 1 písm. d) se řídí zvláštním právním předpisem.3)
+>
+> (3) Uznávání odborné kvalifikace a splnění předpokladu bezúhonnosti a zdravotní způsobilosti u státních příslušníků členských států Evropské unie, případně jejich rodinných příslušníků, a státních příslušníků ostatních států, kteří jsou v členském nebo jiném státě oprávněni konat přímou pedagogickou činnost, se řídí zvláštními právními předpisy4).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0fc3dec4bd2ae82d5452 -->
 
 ### § 4 — Znalost českého jazyka
 
@@ -235,6 +425,68 @@ Znalost češtiny se prokazuje diferencovaně: standardně B2, u učitelů MŠ a
 
 **Typicky rozhodné důkazy / podklady:** doklad o jazykové zkoušce s uvedením úrovně a poskytovatele, případně maturitní vysvědčení z českého jazyka, doklad o vyučovacím jazyce studia.
 
+
+<!-- LEGAL-REVISION:BEGIN id=fb07e9c4d3bc0bb17f65 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 4 — Znalost českého jazyka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která získala odbornou kvalifikaci stanovenou tímto zákonem v jiném vyučovacím jazyce než českém, je povinna prokázat znalost českého jazyka zkouškou, pokud není dále stanoveno jinak. Zkouškou podle věty první se prokazuje znalost českého jazyka odpovídající minimálně úrovni B2 podle Společného evropského referenčního rámce pro jazyky. Fyzická osoba, která má vykonávat činnost učitele mateřské školy nebo učitele prvního stupně základní školy, prokazuje znalost českého jazyka odpovídající minimálně úrovni C1 podle Společného evropského referenčního rámce pro jazyky.
+>
+> (2) Zkoušku z českého jazyka lze vykonat na vysoké škole v rámci programu celoživotního vzdělávání5) nebo v zařízení pro další vzdělávání pedagogických pracovníků1) nebo v jazykové škole s právem státní jazykové zkoušky.1)
+>
+> (3) Zkouška nenahrazuje odbornou kvalifikaci k výuce českého jazyka na základních, středních a vyšších odborných školách.
+>
+> (4) Prokázání znalosti českého jazyka se nevyžaduje u fyzické osoby,
+>
+> - a) která bude působit ve škole s jiným vyučovacím jazykem než českým,
+>
+> - b) která úspěšně vykonala maturitní zkoušku z českého jazyka a literatury nebo jednotlivou zkoušku, která svým obsahem a formou odpovídá zkoušce společné části maturitní zkoušky z českého jazyka a literatury, podle školského zákona24),
+>
+> - c) která vyučuje cizí jazyk nebo konverzaci v cizím jazyce, nebo
+>
+> - d) která vyučuje předmět v cizím jazyce za podmínek stanovených školským zákonem25).
+>
+> (5) Pedagogičtí pracovníci, kromě pedagogických pracovníků uvedených v [[#§ 6|§ 6]] a [[#§ 7|7]], mohou prokázat znalost českého jazyka předložením dokladu o složení jazykové zkoušky v zahraničí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb07e9c4d3bc0bb17f65 -->
+
 ### § 5 — Předpoklady pro výkon činnosti ředitele školy
 
 > **§ 5**
@@ -291,6 +543,62 @@ Odstavec 3 zakládá tzv. **kvalifikační ekvivalent** — magisterské či bak
 
 **Typicky rozhodné důkazy / podklady:** jmenovací dekret s datem, doklady o praxi a jejím charakteru, osvědčení o studiu pro ředitele nebo diplom z oboru řízení školství.
 
+
+<!-- LEGAL-REVISION:BEGIN id=43ec37d25e9f20c493f5 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 5 — Předpoklady pro výkon činnosti ředitele školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Ředitelem školy může být fyzická osoba, která splňuje předpoklady podle [[#§ 3|§ 3]] a získala praxi spočívající ve výkonu přímé pedagogické činnosti nebo v činnosti, pro kterou jsou potřebné znalosti stejného nebo obdobného zaměření, nebo v řídící činnosti nebo v činnosti ve výzkumu a vývoji v délce
+>
+>   - a) 3 roky pro ředitele mateřské školy,
+>
+>   - b) 4 roky pro ředitele základní školy, základní umělecké školy a školských zařízení s výjimkou školských zařízení pro výkon ústavní výchovy, ochranné výchovy a středisek výchovné péče,
+>
+>   - c) 5 let pro ředitele střední školy, jazykové školy, konzervatoře, vyšší odborné školy a školských zařízení pro výkon ústavní výchovy, ochranné výchovy a středisek výchovné péče.
+>
+> (2) Ředitelem školy zřizované Ministerstvem školství, mládeže a tělovýchovy (dále jen „ministerstvo“), krajem, obcí nebo dobrovolným svazkem obcí, jehož předmětem činnosti jsou úkoly v oblasti školství (dále jen „svazek obcí“), může být jen ten, kdo vedle předpokladů uvedených v odstavci 1 získal nejpozději do 3 let ode dne, kdy začal vykonávat činnost ředitele školy, znalosti v oblasti řízení školství absolvováním studia pro ředitele škol v rámci dalšího vzdělávání pedagogických pracovníků podle § 24 odst. 2.
+>
+> (3) Povinnost absolvovat studium pro ředitele školy zřizované ministerstvem, krajem, obcí a svazkem obcí se nevztahuje na ředitele, který znalosti v oblasti řízení školství získal vysokoškolským vzděláním v akreditovaném studijním programu5) zaměřeném na organizaci a řízení školství nebo vzděláním v programu celoživotního vzdělávání uskutečňovaném vysokou školou, zaměřeném na organizaci a řízení školství a akreditovaném pro další vzdělávání pedagogických pracovníků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=43ec37d25e9f20c493f5 -->
+
 ### § 6 — Učitel mateřské školy
 
 > **§ 6**
@@ -338,6 +646,78 @@ Učitel MŠ je výjimkou ze zásady magisterské kvalifikace — postačí SŠ s
 - [ ] Splňuje jazykový požadavek C1 podle § 4?
 
 **Typicky rozhodné důkazy / podklady:** diplom / maturitní vysvědčení s uvedením oboru, doklad o studiu k rozšíření kvalifikace, doklad o speciálněpedagogické přípravě (u speciálních tříd).
+
+
+<!-- LEGAL-REVISION:BEGIN id=fa8874e91c39b2b33ae3 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 6 — Učitel mateřské školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Učitel mateřské školy získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů mateřské školy,
+>
+>   - b) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu studijního oboru pedagogika, případně v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů prvního stupně základní školy, vychovatelství nebo pedagogiku volného času, a studiem k rozšíření odborné kvalifikace zaměřeným na přípravu učitelů mateřské školy,
+>
+>   - c) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy1) v oboru vzdělání zaměřeném na přípravu učitelů mateřské školy,
+>
+>   - d) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na přípravu vychovatelů a studiem k rozšíření odborné kvalifikace zaměřeným na přípravu učitelů mateřské školy,
+>
+>   - e) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání1) v oboru vzdělání zaměřeném na přípravu učitelů mateřské školy,
+>
+>   - f) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání zaměřeném na přípravu vychovatelů a vykonáním jednotlivé zkoušky8), která svým obsahem a formou odpovídá zkoušce profilové části maturitní zkoušky z předmětu zaměřeného na pedagogiku předškolního věku, nebo
+>
+>   - g) vzděláním podle odstavce 2 písm. a) nebo b).
+>
+> (2) Učitel mateřské školy, který vykonává přímou pedagogickou činnost ve třídě nebo škole zřízené pro děti se speciálními vzdělávacími potřebami, získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku,
+>
+>   - b) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na speciální pedagogiku, nebo
+>
+>   - c) vzděláním stanoveným pro učitele mateřské školy podle odstavce 1 a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku, nebo
+>
+>     - 2. studiem k rozšíření odborné kvalifikace zaměřeným na speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami nebo na získání odborné kvalifikace speciálního pedagoga.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa8874e91c39b2b33ae3 -->
 
 ### § 7 — Učitel prvního stupně základní školy
 
@@ -388,6 +768,82 @@ Učitel 1. stupně ZŠ potřebuje magisterské vzdělání. Aprobace z jiného s
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením programu a stupně, osvědčení o studiu k rozšíření kvalifikace, rozvrh dokládající rozsah a předměty výuky, doklad o neúspěšném náboru (u § 22 odst. 11).
 
+
+<!-- LEGAL-REVISION:BEGIN id=6872bc07c474595edafd generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 7 — Učitel prvního stupně základní školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Učitel prvního stupně základní školy získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem
+>
+>   - a) v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů prvního stupně základní školy,
+>
+>   - b) v akreditovaném magisterském studijním programu studijního oboru pedagogika, případně v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů mateřské školy, vychovatelství nebo pedagogiku volného času, a studiem k rozšíření odborné kvalifikace zaměřeným na přípravu učitelů prvního stupně základní školy,
+>
+>   - c) v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů druhého stupně základní školy nebo všeobecně-vzdělávacích předmětů střední školy a studiem k rozšíření odborné kvalifikace zaměřeným na přípravu učitelů prvního stupně základní školy,
+>
+>   - d) v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů základní umělecké školy, který odpovídá charakteru vyučovaného předmětu,
+>
+>   - e) v akreditovaném magisterském studijním programu v oblasti umění s umělecko-pedagogickým zaměřením, který odpovídá charakteru vyučovaného uměleckého předmětu,
+>
+>   - f) v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů předmětů tělovýchovného nebo uměleckého zaměření druhého stupně základní školy nebo střední školy jen pro výuku odpovídajících předmětů tělovýchovného nebo uměleckého zaměření,
+>
+>   - g) v akreditovaném vysokoškolském studijním programu v oblasti pedagogických věd zaměřené na vychovatelství jen pro výuku předmětů tělovýchovného nebo uměleckého zaměření,
+>
+>   - h) podle [[#§ 12|§ 12]] jen pro výuku cizího jazyka, nebo
+>
+>   - i) podle odstavce 2 písm. a) nebo b).
+>
+> (2) Učitel prvního stupně základní školy, který vykonává přímou pedagogickou činnost ve třídě nebo škole zřízené pro žáky se speciálními vzdělávacími potřebami, získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku pro učitele,
+>
+>   - b) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku a studiem k rozšíření odborné kvalifikace zaměřeným na přípravu učitelů prvního stupně základní školy, nebo
+>
+>   - c) vzděláním stanoveným pro učitele prvního stupně základní školy podle odstavce 1 a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku, nebo
+>
+>     - 2. studiem k rozšíření odborné kvalifikace zaměřeným na speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami nebo na získání odborné kvalifikace speciálního pedagoga.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6872bc07c474595edafd -->
+
 ### § 7a — Společné způsoby získání odborné kvalifikace učitele druhého stupně základní školy a učitele všeobecně-vzdělávacích předmětů střední školy
 
 > **§ 7a**
@@ -431,6 +887,66 @@ Učitel 2. stupně ZŠ a VVP SŠ má společný kvalifikační rámec. Standarde
 - [ ] Nebyl vyčerpán souhrnný tříletý limit uznání podle § 9a odst. 5 u jiných zaměstnavatelů?
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením programu, osvědčení o DPS, písemné uznání kvalifikace podle § 9a, sdělení zaměstnance o předchozím uznání u jiných zaměstnavatelů.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c32e94ea0f7d8a90ded9 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 7a — Společné způsoby získání odborné kvalifikace učitele druhého stupně základní školy a učitele všeobecně-vzdělávacích předmětů střední školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Učitel druhého stupně základní školy a učitel všeobecně-vzdělávacích předmětů střední školy získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu
+>
+> - a) v oblasti pedagogických věd zaměřené na přípravu učitelů druhého stupně základní školy nebo na přípravu učitelů všeobecně-vzdělávacích nebo odborných předmětů střední školy,
+>
+> - b) v oblasti pedagogických věd zaměřené na přípravu učitelů prvního stupně základní školy a studiem k rozšíření odborné kvalifikace zaměřeným na přípravu učitelů druhého stupně základní školy nebo střední školy,
+>
+> - c) jehož zaměření odpovídá charakteru vyučovaného předmětu a
+>
+>   - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů praktického vyučování nebo odborného výcviku střední školy, nebo
+>
+>   - 2. studiem pedagogiky podle § 22 odst. 1 písm. a),
+>
+> - d) v oblasti pedagogických věd zaměřené na přípravu učitelů základní umělecké školy, který odpovídá charakteru vyučovaného předmětu, jen pro výuku odpovídajícího předmětu, nebo
+>
+> - e) podle [[#§ 12|§ 12]] jen pro výuku cizího jazyka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c32e94ea0f7d8a90ded9 -->
 
 ### § 8 — Učitel druhého stupně základní školy
 
@@ -481,6 +997,70 @@ Uznání kvalifikace výkonnému/výtvarnému umělci podle § 8 odst. 3 je podm
 
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva s rozsahem úvazku, doklady o souběžné umělecké činnosti (smlouvy, programy, honoráře), písemné uznání kvalifikace ředitelem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=377e0c7a722fb4921b85 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 8 — Učitel druhého stupně základní školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Učitel druhého stupně základní školy, který vzdělává ve třídě nebo škole zřízené pro žáky se speciálními vzdělávacími potřebami, získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku pro učitele,
+>
+>   - b) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů praktického vyučování nebo odborného výcviku střední školy, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a),
+>
+>   - c) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů prvního stupně základní školy a vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku nebo studiem k rozšíření odborné kvalifikace zaměřeným na speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami nebo na získání odborné kvalifikace speciálního pedagoga,
+>
+>   - d) vzděláním stanoveným pro učitele druhého stupně základní školy podle [[#§ 7a|§ 7a]] a vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku, nebo studiem k rozšíření odborné kvalifikace zaměřeným na speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami nebo na získání odborné kvalifikace speciálního pedagoga, nebo
+>
+>   - e) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku a přípravu učitelů druhého stupně základní školy nebo přípravu učitelů všeobecně-vzdělávacích nebo odborných předmětů střední školy.
+>
+> (2) Učitel předmětů uměleckého zaměření získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti umění s umělecko-pedagogickým zaměřením.
+>
+> (3) Zaměstnanci, který je výkonným umělcem7), výtvarným umělcem nebo který má odbornou kvalifikaci podle § 10 odst. 1 nebo [[#§ 21|§ 21]], může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele předmětu druhého stupně základní školy odpovídajícího uměleckému zaměření nebo odborné kvalifikaci zaměstnance za splněný, pokud týdenní pracovní doba tohoto zaměstnance u právnické osoby vykonávající činnost školy nepřesahuje polovinu stanovené týdenní pracovní doby a pokud tento zaměstnanec mimo pracovněprávní vztah k právnické osobě vykonávající činnost školy provádí umělecké výkony, vytváří umělecká díla nebo vykonává činnost, pro niž splňuje odbornou kvalifikaci podle § 10 odst. 1 nebo [[#§ 21|§ 21]]. Uznání splnění předpokladu odborné kvalifikace platí pro účely tohoto zákona po dobu, po kterou zaměstnanec splňuje podmínky podle věty první.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 7a, § 10, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=377e0c7a722fb4921b85 -->
+
 ### § 8a — Učitel přípravné třídy základní školy
 
 > **§ 8a**
@@ -524,6 +1104,52 @@ Učitel přípravné třídy ZŠ je kvalifikován vzděláním podle § 6 (MŠ) 
 
 **Typicky rozhodné důkazy / podklady:** doklad o kvalifikaci podle § 6 nebo § 7, dokument o zřízení přípravné třídy (vymezení jejího druhu).
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f5f8dfd087154e8edfd generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 8a — Učitel přípravné třídy základní školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Učitel přípravné třídy základní školy16) získává odbornou kvalifikaci vzděláním podle [[#§ 6|§ 6]] nebo [[#§ 7|§ 7]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f5f8dfd087154e8edfd -->
+
 ### § 8b — Učitel přípravného stupně základní školy speciální
 
 > **§ 8b**
@@ -566,6 +1192,52 @@ Učitel přípravného stupně ZŠ speciální musí mít plnou speciálněpedag
 - [ ] Pokud chybí: je sjednáno rozšiřující studium a využit režim § 22 odst. 11?
 
 **Typicky rozhodné důkazy / podklady:** diplom dokládající speciálněpedagogickou kvalifikaci podle § 7 odst. 2, doklad o zřízení přípravného stupně ZŠ speciální, doklad o rozšiřujícím studiu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d1f098a8e9b53f967e33 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 8b — Učitel přípravného stupně základní školy speciální
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Učitel přípravného stupně základní školy speciální17) získává odbornou kvalifikaci vzděláním podle § 7 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1f098a8e9b53f967e33 -->
 
 ### § 9 — Učitel střední školy
 
@@ -628,6 +1300,120 @@ Kvalifikace učitele SŠ je vícevrstevná: odborné předměty (odst. 1) vyžad
 
 **Typicky rozhodné důkazy / podklady:** doklad o vzdělání (diplom/maturita/výuční list) s uvedením oboru, osvědčení o DPS nebo o profesní kvalifikaci instruktora, doklad o zdravotnické způsobilosti (u zdravotnických oborů).
 
+
+<!-- LEGAL-REVISION:BEGIN id=37d68766a0ba1f6be0e1 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 9 — Učitel střední školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Učitel odborných předmětů střední školy získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu
+>
+>   - a) v oblasti pedagogických věd zaměřené na přípravu učitelů odborných předmětů střední školy,
+>
+>   - b) v oblasti pedagogických věd zaměřené na přípravu učitelů všeobecně-vzdělávacích předmětů druhého stupně základní školy a všeobecně-vzdělávacích předmětů střední školy, který odpovídá charakteru vyučovaného odborného předmětu,
+>
+>   - c) v oblasti pedagogických věd zaměřené na přípravu učitelů všeobecně-vzdělávacích předmětů střední školy, který odpovídá charakteru vyučovaného odborného předmětu, nebo
+>
+>   - d) odpovídajícím charakteru vyučovaného odborného předmětu, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů střední školy nebo druhého stupně základní školy, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b).
+>
+> (2) Učitel praktického vyučování získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu, který odpovídá charakteru praktického vyučování, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů praktického vyučování nebo odborného výcviku střední školy, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b),
+>
+>   - b) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání, který odpovídá charakteru praktického vyučování, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů praktického vyučování nebo odborného výcviku střední školy, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b), nebo
+>
+>   - c) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání, který odpovídá charakteru vyučovaného předmětu, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů praktického vyučování nebo odborného výcviku střední školy, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b).
+>
+> (3) Učitel praktického vyučování zdravotnických oborů vzdělání musí mít také způsobilost k výkonu zdravotnického povolání podle zvláštního právního předpisu6) v oboru, který vyučuje.
+>
+> (4) Učitel odborného výcviku získává odbornou kvalifikaci
+>
+>   - a) podle odstavce 2,
+>
+>   - b) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání, který odpovídá charakteru vyučovaného předmětu, a získáním profesní kvalifikace pro činnost instruktora odborného výcviku podle zákona o uznávání výsledků dalšího vzdělávání, nebo
+>
+>   - c) středním vzděláním s výučním listem získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání, který odpovídá charakteru vyučovaného předmětu, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů praktického vyučování nebo odborného výcviku střední školy,
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b), nebo
+>
+>     - 3. získáním profesní kvalifikace pro činnost instruktora odborného výcviku podle zákona o uznávání výsledků dalšího vzdělávání.
+>
+> (5) Učitel odborného výcviku zdravotnických oborů vzdělání získává odbornou kvalifikaci vzděláním podle odstavců 2 a [[#§ 3|3.]]
+>
+> (6) Učitel střední školy, který vzdělává ve třídě nebo škole zřízené pro žáky se speciálními vzdělávacími potřebami, získává odbornou kvalifikaci
+>
+>   - a) vzděláním stanoveným pro učitele střední školy podle [[#§ 7a|§ 7a]] nebo podle odstavců 1 až 5 a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku, nebo
+>
+>     - 2. studiem k rozšíření odborné kvalifikace zaměřeným na speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami nebo na získání odborné kvalifikace speciálního pedagoga,
+>
+>   - b) studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku pro učitele a studiem pedagogiky podle § 22 odst. 1 písm. a),
+>
+>   - c) pro výuku v praktické škole jednoleté a praktické škole dvouleté studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku pro učitele nebo vzděláním podle § 7 odst. 2 nebo § 8 odst. 1, nebo
+>
+>   - d) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku a přípravu učitelů druhého stupně základní školy nebo přípravu učitelů všeobecně-vzdělávacích nebo odborných předmětů střední školy.
+>
+> (7) Učitel předmětů uměleckého zaměření získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti umění s umělecko-pedagogickým zaměřením.
+>
+> (8) Zaměstnanci, který je výkonným umělcem7), výtvarným umělcem, uznávaným odborníkem v oboru nebo který má odbornou kvalifikaci podle [[#§ 21|§ 21]], může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele předmětu střední školy odpovídajícího uměleckému nebo odbornému zaměření nebo odborné kvalifikaci zaměstnance za splněný, pokud týdenní pracovní doba tohoto zaměstnance u právnické osoby vykonávající činnost školy nepřesahuje polovinu stanovené týdenní pracovní doby a pokud tento zaměstnanec mimo pracovněprávní vztah k právnické osobě vykonávající činnost školy provádí umělecké výkony, vytváří umělecká díla, vykonává činnost v oboru, v němž je uznávaným odborníkem, nebo činnost, pro niž splňuje odbornou kvalifikaci podle [[#§ 21|§ 21]]. Uznání splnění předpokladu odborné kvalifikace platí pro účely tohoto zákona po dobu, po kterou zaměstnanec splňuje podmínky podle věty první.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 3, § 7a, § 7, § 8, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37d68766a0ba1f6be0e1 -->
+
 ### § 9a — Uznání splnění předpokladu odborné kvalifikace učitele druhého stupně základní školy nebo učitele střední školy
 
 > **§ 9a**
@@ -683,6 +1469,62 @@ Uznání kvalifikace podle § 9a je dočasné (max. 3 roky souhrnně u všech za
 
 **Typicky rozhodné důkazy / podklady:** písemná uznání od jednotlivých zaměstnavatelů, sdělení zaměstnance o předchozím uznání, diplom, doklad o průběhu/ukončení DPS.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e8ad5a2d3adc3abdad6 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 9a — Uznání splnění předpokladu odborné kvalifikace učitele druhého stupně základní školy nebo učitele střední školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanci, který je absolventem akreditovaného magisterského studijního programu, jehož zaměření odpovídá charakteru vyučovaného předmětu, může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele druhého stupně základní školy nebo učitele všeobecně-vzdělávacích předmětů střední školy za splněný na dobu nejdéle 3 let ode dne, kdy tuto pedagogickou činnost začal vykonávat.
+>
+> (2) Zaměstnanci, který je absolventem akreditovaného magisterského studijního programu, jehož zaměření odpovídá charakteru vyučovaného předmětu, může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele odborných předmětů, praktického vyučování nebo odborného výcviku za splněný na dobu nejdéle 3 let ode dne, kdy tuto pedagogickou činnost začal vykonávat.
+>
+> (3) Zaměstnanci, který je absolventem alespoň středního vzdělání s maturitní zkouškou v oboru, který odpovídá charakteru vyučovaného předmětu, může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele praktického vyučování nebo odborného výcviku za splněný na dobu nejdéle 3 let ode dne, kdy tuto pedagogickou činnost začal vykonávat.
+>
+> (4) Zaměstnanci, který je absolventem alespoň středního vzdělání s výučním listem v oboru, který odpovídá charakteru vyučovaného předmětu, může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele odborného výcviku za splněný na dobu nejdéle 3 let ode dne, kdy tuto pedagogickou činnost začal vykonávat.
+>
+> (5) Celková doba uznání předpokladu odborné kvalifikace podle odstavce 1, [[#§ 2|2]], [[#§ 3|3]] nebo [[#§ 4|4]] nesmí u téhož zaměstnance přesáhnout ani v souhrnu u více zaměstnavatelů 3 roky. Zaměstnanec před vznikem pracovního poměru sdělí řediteli školy, zda a na jakou dobu u něho dříve došlo k uznání předpokladu odborné kvalifikace podle odstavce 1, [[#§ 2|2]], [[#§ 3|3]] nebo [[#§ 4|4.]]
+>
+> (6) Zaměstnanci, který získal vysokoškolské vzdělání v akreditovaném bakalářském studijním programu v oblasti pedagogických věd a současně je studentem akreditovaného magisterského studijního programu zaměřeného na přípravu učitelů druhého stupně základní školy nebo střední školy, který navazuje na bakalářský studijní program, může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele druhého stupně základní školy nebo učitele všeobecně-vzdělávacích předmětů střední školy na této škole za splněný po dobu studia tohoto akreditovaného magisterského studijního programu, nejdéle však na dobu 3 let ode dne zahájení studia tohoto studijního programu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e8ad5a2d3adc3abdad6 -->
+
 ### § 10 — Učitel uměleckých odborných předmětů v základní umělecké škole, střední škole a konzervatoři
 
 > **§ 10**
@@ -730,6 +1572,88 @@ Učitel uměleckých odborných předmětů v ZUŠ, SŠ a konzervatoři má velm
 - [ ] U bývalých umělců: jsou dány odůvodněné případy pro uznání podle odst. 2?
 
 **Typicky rozhodné důkazy / podklady:** vysvědčení o absolutoriu / maturitní vysvědčení z konzervatoře s uvedením oboru a délky programu, případně doklad o pedagogické přípravě.
+
+
+<!-- LEGAL-REVISION:BEGIN id=32aaed5bddbf95e052c0 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 10 — Učitel uměleckých odborných předmětů v základní umělecké škole, střední škole a konzervatoři
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Učitel uměleckých odborných předmětů v základní umělecké škole, střední škole a konzervatoři získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu, který odpovídá charakteru vyučovaného uměleckého předmětu, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b),
+>
+>   - b) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů základní umělecké školy jen pro výuku v základní umělecké škole,
+>
+>   - c) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů všeobecně-vzdělávacích předmětů pro hru na hudební nástroj nebo pro sólový zpěv jen pro výuku těchto předmětů v základní umělecké škole,
+>
+>   - d) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů všeobecně-vzdělávacích předmětů pro výtvarnou výchovu jen pro výuku výtvarného oboru v základní umělecké škole,
+>
+>   - e) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti umění s umělecko-pedagogickým zaměřením,
+>
+>   - f) vyšším odborným vzděláním získaným ukončením osmiletého nebo šestiletého vzdělávacího programu oboru vzdělání konzervatoře1), který odpovídá charakteru vyučovaného uměleckého předmětu,
+>
+>   - g) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání, který odpovídá charakteru vyučovaného uměleckého předmětu, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b),
+>
+>   - h) středním vzděláním s maturitní zkouškou získaným ukončením odpovídající části vzdělávacího programu konzervatoře a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b), nebo
+>
+>   - i) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání, který odpovídá charakteru vyučovaného uměleckého předmětu, a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném bakalářském studijním programu v oblasti pedagogických věd, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b).
+>
+> (2) U toho, kdo je nebo byl výkonným umělcem7) nebo výtvarným umělcem, může ředitel základní umělecké školy, střední školy nebo konzervatoře v odůvodněných případech písemně uznat předpoklad odborné kvalifikace učitele předmětu odpovídajícího uměleckému zaměření zaměstnance pro účely tohoto zákona na dané škole za splněný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32aaed5bddbf95e052c0 -->
 
 ### § 11 — Učitel vyšší odborné školy
 
@@ -786,6 +1710,68 @@ Učitel VOŠ má mírnější kvalifikační požadavky než učitel SŠ — ped
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením oboru, doklad o shodě oboru s charakterem předmětu, u uznávaných odborníků doklady o souběžné činnosti a rozsahu úvazku.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e6e87f1f42cca413131c generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 11 — Učitel vyšší odborné školy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Učitel všeobecně-vzdělávacích předmětů nebo odborných předmětů vyšší odborné školy získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu, který odpovídá charakteru vyučovaného všeobecně-vzdělávacího nebo odborného předmětu.
+>
+> (2) Učitel praktického vyučování a odborné praxe získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu, který odpovídá charakteru praktického vyučování,
+>
+>   - b) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání, který odpovídá charakteru praktického vyučování, nebo
+>
+>   - c) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání, který odpovídá charakteru vyučovaného předmětu.
+>
+> (3) Učitel praktického vyučování a odborné praxe zdravotnických oborů vzdělání musí mít také způsobilost k výkonu zdravotnického povolání podle zvláštního právního předpisu6) v oboru, který vyučuje.
+>
+> (4) Učitel předmětů uměleckého zaměření získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti umění s umělecko-pedagogickým zaměřením.
+>
+> (5) U toho, kdo je nebo byl výkonným umělcem7) nebo výtvarným umělcem, může ředitel vyšší odborné školy v odůvodněných případech písemně uznat předpoklad odborné kvalifikace učitele předmětu odpovídajícího uměleckému zaměření zaměstnance pro účely tohoto zákona na dané škole za splněný.
+>
+> (6) Zaměstnanci, který je uznávaným odborníkem v oboru nebo který má odbornou kvalifikaci podle [[#§ 21|§ 21]], může ředitel školy písemně uznat předpoklad odborné kvalifikace učitele předmětu vyšší odborné školy odpovídajícího odbornému zaměření nebo odborné kvalifikaci zaměstnance za splněný, pokud týdenní pracovní doba tohoto zaměstnance u právnické osoby vykonávající činnost školy nepřesahuje polovinu stanovené týdenní pracovní doby a pokud tento zaměstnanec mimo pracovněprávní vztah k právnické osobě vykonávající činnost školy vykonává činnost v oboru, v němž je uznávaným odborníkem, nebo činnost, pro niž splňuje odbornou kvalifikaci podle [[#§ 21|§ 21]]. Uznání splnění předpokladu odborné kvalifikace platí pro účely tohoto zákona po dobu, po kterou zaměstnanec splňuje podmínky podle věty první.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e6e87f1f42cca413131c -->
+
 ### § 12 — Učitel jazykové školy s právem státní jazykové zkoušky
 
 > **§ 12**
@@ -829,6 +1815,68 @@ Učitel jazykové školy s právem státní jazykové zkoušky musí mít vždy 
 - [ ] Je doložena pedagogická příprava (studium pedagogiky / pedagogický program) tam, kde je vyžadována?
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením programu, doklad o jazykové zkoušce s úrovní, osvědčení o doplňujícím didaktickém studiu jazyka, osvědčení o studiu pedagogiky.
+
+
+<!-- LEGAL-REVISION:BEGIN id=9d8787274f31797967ab generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 12 — Učitel jazykové školy s právem státní jazykové zkoušky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Učitel jazykové školy s právem státní jazykové zkoušky získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem
+>
+>   - a) v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů příslušných cizích jazyků,
+>
+>   - b) jiného akreditovaného magisterského studijního programu v oblasti pedagogických věd než podle písmene a), vykonáním jazykové zkoušky z příslušného cizího jazyka odpovídající minimálně úrovni C1 Společného evropského referenčního rámce pro jazyky a doplňujícím didaktickým studiem příslušného jazyka,
+>
+>   - c) v akreditovaném magisterském studijním programu v oblasti společenských věd zaměřené na příslušné cizí jazyky a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a) nebo b), nebo
+>
+>   - d) jiného akreditovaného magisterského studijního programu než podle písmen a), b) a c), vykonáním jazykové zkoušky z příslušného cizího jazyka odpovídající minimálně úrovni C1 Společného evropského referenčního rámce pro jazyky, doplňujícím didaktickým studiem příslušného cizího jazyka a
+>
+>     - 1. vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů, nebo
+>
+>     - 2. studiem pedagogiky podle § 22 odst. 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d8787274f31797967ab -->
 
 ### § 13 — Pedagog v zařízení pro další vzdělávání pedagogických pracovníků
 
@@ -874,6 +1922,52 @@ Lektor DVPP musí mít magisterský obor odpovídající charakteru vzdělávac�
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením oboru, doklady o délce a charakteru praxe (pracovní smlouvy, potvrzení zaměstnavatelů), akreditační dokumentace programu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c4b27a32721f00b1429 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 13 — Pedagog v zařízení pro další vzdělávání pedagogických pracovníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Pedagog v zařízení pro další vzdělávání pedagogických pracovníků získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu, který odpovídá charakteru vzdělávacího předmětu, a pedagogickou praxí nebo praxí v oboru, který odpovídá charakteru vzdělávacích předmětů, v délce nejméně 4 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c4b27a32721f00b1429 -->
+
 ### § 14 — Učitel náboženství
 
 > **§ 14**
@@ -918,6 +2012,58 @@ Učitel náboženství musí mít magisterské vzdělání (teologie, pedagogika
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením oboru, doklad o doplnění studia náboženské pedagogiky (u písm. c), pověření/návrh registrované církve.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0cfb07c5e37e01ea33e generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 14 — Učitel náboženství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Učitel náboženství získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu
+>
+>   - a) v oblasti teologických věd,
+>
+>   - b) v oblasti pedagogických věd zaměřené na přípravu učitelů náboženství, nebo
+>
+>   - c) v oblasti pedagogických nebo společenských věd a vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů náboženství, nebo vzděláním v programu celoživotního vzdělávání uskutečňovaném vysokou školou, zaměřeném na přípravu učitelů náboženství a akreditovaném pro další vzdělávání pedagogických pracovníků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0cfb07c5e37e01ea33e -->
+
 ### § 15 — Učitel odborného výcviku v zařízení sociálních služeb
 
 > **§ 15**
@@ -961,6 +2107,52 @@ Učitel odborného výcviku v zařízení sociálních služeb musí splnit dvě
 - [ ] Při chybějící složce: je sjednáno doplnění a využit režim § 22 odst. 11?
 
 **Typicky rozhodné důkazy / podklady:** doklad o kvalifikaci podle § 9 odst. 4 (výuční list/maturita + pedagogická příprava nebo profesní kvalifikace instruktora), osvědčení o akreditovaném studiu speciální pedagogiky.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba2c0992036516e72f6c generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 15 — Učitel odborného výcviku v zařízení sociálních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Učitel odborného výcviku v zařízení sociálních služeb získává odbornou kvalifikaci jako učitel odborného výcviku podle § 9 odst. 4 a současně absolvováním akreditovaného vzdělávacího programu zaměřeného na speciální pedagogiku a uskutečňovaného zařízením pro další vzdělávání pedagogických pracovníků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba2c0992036516e72f6c -->
 
 ### § 16 — Vychovatel
 
@@ -1007,6 +2199,76 @@ Vychovatel má širokou škálu kvalifikačních cest (od magistra po SŠ s matu
 - [ ] Při chybějící složce: je sjednáno rozšiřující studium a využit režim § 22 odst. 11?
 
 **Typicky rozhodné důkazy / podklady:** diplom / maturitní vysvědčení s uvedením oboru, doklad o studiu pedagogiky nebo o rozšiřujícím speciálněpedagogickém studiu, vymezení druhu zařízení a pracovní pozice.
+
+
+<!-- LEGAL-REVISION:BEGIN id=acfaf5da1f4a5df855e5 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 16 — Vychovatel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Vychovatel získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd,
+>
+>   - b) vysokoškolským vzděláním podle § 7 až 10, [[#§ 12|12]] a [[#§ 14|14]],
+>
+>   - c) vysokoškolským vzděláním získaným ukončením jiného akreditovaného bakalářského studijního programu než podle písmen a) a b) a studiem pedagogiky podle § 22 odst. 1,
+>
+>   - d) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na vychovatelství nebo na pedagogiku volného času nebo na speciální pedagogiku nebo na sociální pedagogiku,
+>
+>   - e) vyšším odborným vzděláním získaným ukončením jiného akreditovaného vzdělávacího programu než podle písmene d) a studiem pedagogiky podle § 22 odst. 1,
+>
+>   - f) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu střední školy v oboru vzdělání zaměřeném na přípravu vychovatelů nebo pedagogů volného času,
+>
+>   - g) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání zaměřeném na přípravu učitelů předškolního vzdělávání a vykonáním jednotlivé zkoušky, která svým obsahem a formou odpovídá zkoušce profilové části maturitní zkoušky z předmětu zaměřeného na vychovatelství, nebo
+>
+>   - h) středním vzděláním s maturitní zkouškou získaným ukončením jiného vzdělávacího programu středního vzdělávání než podle písmen f) a g) a studiem pedagogiky podle § 22 odst. 1.
+>
+> (2) Vychovatel, který vykonává přímou pedagogickou činnost ve školském výchovném a ubytovacím zařízení nebo v jeho oddělení zřízeném pro děti a žáky se speciálními vzdělávacími potřebami, ve školském zařízení pro výkon ústavní výchovy nebo ochranné výchovy, nebo ve středisku výchovné péče, získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na speciální pedagogiku nebo sociální pedagogiku,
+>
+>   - b) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na speciální pedagogiku, nebo
+>
+>   - c) vzděláním stanoveným pro vychovatele podle odstavce 1 a studiem k rozšíření odborné kvalifikace zaměřeným na speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami nebo na získání odborné kvalifikace speciálního pedagoga.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 12, § 14, § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acfaf5da1f4a5df855e5 -->
 
 ### § 17 — Pedagog volného času
 
@@ -1058,6 +2320,82 @@ Pedagog volného času působí v DDM a střediscích volného času. Pro komple
 
 **Typicky rozhodné důkazy / podklady:** doklad o vzdělání s uvedením oboru, osvědčení o studiu pedagogiky nebo profesní kvalifikaci, popis rozsahu a samostatnosti vykonávané činnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ed59c8dce3e8a68fcb81 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 17 — Pedagog volného času
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Pedagog volného času, který vykonává komplexní přímou pedagogickou činnost v zájmovém vzdělávání ve školách a školských zařízeních pro zájmové vzdělávání, získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd,
+>
+>   - b) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání s pedagogickým zaměřením,
+>
+>   - c) vzděláním podle § 10 odst. 1,
+>
+>   - d) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání s pedagogickým zaměřením, nebo
+>
+>   - e) alespoň středním vzděláním s maturitní zkouškou a
+>
+>     - 1. studiem pedagogiky podle § 22 odst. 1, nebo
+>
+>     - 2. získáním profesní kvalifikace pro činnost samostatného vedoucího volnočasových aktivit dětí podle zákona o uznávání výsledků dalšího vzdělávání.
+>
+> (2) Pedagog volného času, který vykonává dílčí přímou pedagogickou činnost v zájmovém vzdělávání ve školách a školských zařízeních pro zájmové vzdělávání, získává odbornou kvalifikaci
+>
+>   - a) vzděláním podle odstavce 1, nebo
+>
+>   - b) středním vzděláním s výučním listem získaným ukončením vzdělávacího programu středního vzdělávání a
+>
+>     - 1. studiem pedagogiky podle § 22 odst. 1,
+>
+>     - 2. studiem pro přípravu pedagogů volného času vykonávajících dílčí přímou pedagogickou činnost v zájmovém vzdělávání, nebo
+>
+>     - 3. získáním profesní kvalifikace pro činnost vedoucího volnočasových aktivit dětí podle zákona o uznávání výsledků dalšího vzdělávání.
+>
+> (3) Pedagog volného času získává odbornou kvalifikaci pouze pro aktivity zájmového vzdělávání uměleckého nebo odborného zaměření vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu odpovídajícího uměleckého nebo odborného zaměření.
+>
+> (4) Zaměstnanci, který vykonává dílčí přímou pedagogickou činnost v zájmovém vzdělávání ve školách a školských zařízeních pro zájmové vzdělávání a je výkonným umělcem7), výtvarným umělcem nebo který má odbornou kvalifikaci podle [[#§ 21|§ 21]], může ředitel školy písemně uznat předpoklad odborné kvalifikace pedagoga volného času pro aktivity zájmového vzdělávání odpovídající uměleckému zaměření nebo odborné kvalifikaci zaměstnance za splněný, pokud týdenní pracovní doba tohoto zaměstnance u právnické osoby vykonávající činnost školy nepřesahuje polovinu stanovené týdenní pracovní doby a pokud tento zaměstnanec mimo pracovněprávní vztah k právnické osobě vykonávající činnost školy provádí umělecké výkony, vytváří umělecká díla nebo vykonává činnost, pro niž splňuje odbornou kvalifikaci podle [[#§ 21|§ 21]]. Uznání splnění předpokladu odborné kvalifikace platí pro účely tohoto zákona po dobu, po kterou zaměstnanec splňuje podmínky podle věty první.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 22, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed59c8dce3e8a68fcb81 -->
+
 ### § 18 — Speciální pedagog
 
 > **§ 18**
@@ -1101,6 +2439,72 @@ Speciální pedagog patří k nejnáročnějším kategoriím — vyžaduje magi
 - [ ] Při chybějící složce: je využit režim § 22 odst. 11 a sjednáno doplnění?
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením oboru, osvědčení o rozšiřujícím studiu na speciálního pedagoga, osvědčení o studiu pro získání způsobilosti k speciálněpedagogickému poradenství.
+
+
+<!-- LEGAL-REVISION:BEGIN id=212cbc5bca4cfe0397a8 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 18 — Speciální pedagog
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Speciální pedagog získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd
+>
+>   - a) zaměřené na speciální pedagogiku,
+>
+>   - b) zaměřené na pedagogiku předškolního věku nebo na přípravu učitelů základní školy nebo na přípravu učitelů všeobecně-vzdělávacích předmětů střední školy nebo na přípravu vychovatelů a
+>
+>     - 1. studiem k rozšíření odborné kvalifikace zaměřeným na přípravu speciálních pedagogů,
+>
+>     - 2. vysokoškolským vzděláním v akreditovaném bakalářském studijním programu zaměřeném na speciální pedagogiku a studiem k rozšíření odborné kvalifikace pro získání způsobilosti provádět speciálněpedagogické poradenství, nebo
+>
+>     - 3. studiem k rozšíření odborné kvalifikace pro získání způsobilosti vykonávat speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami a studiem k rozšíření odborné kvalifikace pro získání způsobilosti provádět speciálněpedagogické poradenství,
+>
+>   - c) studijního oboru pedagogika a
+>
+>     - 1. studiem k rozšíření odborné kvalifikace zaměřeným na přípravu speciálních pedagogů,
+>
+>     - 2. vysokoškolským vzděláním v akreditovaném bakalářském studijním programu zaměřeném na speciální pedagogiku a studiem k rozšíření odborné kvalifikace pro získání způsobilosti provádět speciálněpedagogické poradenství, nebo
+>
+>     - 3. studiem k rozšíření odborné kvalifikace pro získání způsobilosti vykonávat speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami a studiem k rozšíření odborné kvalifikace pro získání způsobilosti provádět speciálněpedagogické poradenství, nebo
+>
+>   - d) zaměřené na speciální pedagogiku a přípravu učitelů základní školy nebo učitelů všeobecně-vzdělávacích předmětů střední školy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=212cbc5bca4cfe0397a8 -->
 
 ### § 18a — Školský logoped
 
@@ -1151,6 +2555,58 @@ Speciální pedagog patří k nejnáročnějším kategoriím — vyžaduje magi
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením oboru a SZZ, osvědčení o studiu pro přípravu školských logopedů, vymezení rezortního zařazení pozice.
 
+
+<!-- LEGAL-REVISION:BEGIN id=96ac06d406cc1ef57d42 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 18a — Školský logoped
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Školský logoped získává odbornou kvalifikaci studiem pro přípravu školských logopedů a vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd
+>
+> - a) zaměřené na speciální pedagogiku se státní závěrečnou zkouškou z logopedie a surdopedie, který nenavazuje na akreditovaný bakalářský studijní program,
+>
+> - b) zaměřené na speciální pedagogiku se státní závěrečnou zkouškou z logopedie a surdopedie, který navazuje na akreditovaný bakalářský studijní program speciální pedagogika, nebo
+>
+> - c) zaměřené na logopedii se státní závěrečnou zkouškou z logopedie a surdopedie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96ac06d406cc1ef57d42 -->
+
 ### § 19 — Psycholog
 
 > **§ 19**
@@ -1195,6 +2651,52 @@ Psycholog ve školství musí mít vždy magisterské psychologické vzdělání
 
 **Typicky rozhodné důkazy / podklady:** magisterský diplom z psychologie; vymezení náplně pozice (psychologická vs. sociálněpedagogická činnost).
 
+
+<!-- LEGAL-REVISION:BEGIN id=c13017f2d56825ef99a6 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 19 — Psycholog
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Psycholog získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu psychologie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c13017f2d56825ef99a6 -->
+
 ### § 19a — Metodik prevence v pedagogicko-psychologické poradně
 
 > **§ 19a**
@@ -1237,6 +2739,52 @@ Metodik prevence v PPP je nová kategorie (novela 183/2024 Sb., účinnost 1. 1.
 - [ ] Je zohledněna účinnost kategorie od 1. 1. 2026?
 
 **Typicky rozhodné důkazy / podklady:** vysokoškolský diplom (jakýkoliv obor a stupeň), popis náplně pozice (metodika prevence vs. psychologická činnost).
+
+
+<!-- LEGAL-REVISION:BEGIN id=3b0321f5851cd216e1c0 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 19a — Metodik prevence v pedagogicko-psychologické poradně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Metodik prevence v pedagogicko-psychologické poradně získává odbornou kvalifikaci vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3b0321f5851cd216e1c0 -->
 
 ### § 19b — Sociální pedagog
 
@@ -1281,6 +2829,72 @@ Sociální pedagog je nová kategorie (novela 183/2024 Sb., účinnost 1. 1. 202
 - [ ] Při chybějící složce: je využit režim § 22 odst. 11 a sjednáno doplnění?
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením oboru, osvědčení o studiu pro přípravu sociálních pedagogů nebo o rozšiřujícím studiu, popis náplně pozice.
+
+
+<!-- LEGAL-REVISION:BEGIN id=bf42450a235403f6b745 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 19b — Sociální pedagog
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Sociální pedagog získává odbornou kvalifikaci
+>
+> - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických věd zaměřené na sociální pedagogiku,
+>
+> - b) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu zaměřeným na sociální práci a studiem pro přípravu sociálních pedagogů,
+>
+> - c) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na sociální pedagogiku,
+>
+> - d) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na sociální práci a studiem pro přípravu sociálních pedagogů, nebo
+>
+> - e) studiem k rozšíření odborné kvalifikace zaměřeným na přípravu sociálních pedagogů a vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd
+>
+>   - 1. zaměřené na speciální pedagogiku,
+>
+>   - 2. zaměřené na pedagogiku předškolního věku,
+>
+>   - 3. zaměřené na přípravu učitelů základní školy, učitelů všeobecně-vzdělávacích předmětů střední školy nebo vychovatelů,
+>
+>   - 4. zaměřené na speciální pedagogiku a přípravu učitelů základní školy nebo učitelů všeobecně-vzdělávacích předmětů střední školy, nebo
+>
+>   - 5. studijního oboru pedagogika.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf42450a235403f6b745 -->
 
 ### § 20 — Asistent pedagoga
 
@@ -1328,6 +2942,88 @@ Asistent pedagoga má dvě kvalifikační úrovně: vyšší (odst. 1) pro pří
 
 **Typicky rozhodné důkazy / podklady:** doklad o nejvyšším dosaženém vzdělání, osvědčení o studiu/kurzu pro asistenty pedagoga, popis skutečné pracovní náplně a vymezení podporovaného žáka.
 
+
+<!-- LEGAL-REVISION:BEGIN id=83c87b48bf7a6dbbc3ab generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 20 — Asistent pedagoga
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Asistent pedagoga, který vykonává přímou pedagogickou činnost ve třídě, ve které se vzdělávají děti nebo žáci se speciálními vzdělávacími potřebami18), nebo ve škole zajišťující vzdělávání dětí a žáků formou individuální integrace19), získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu v oblasti pedagogických nebo psychologických věd,
+>
+>   - b) vysokoškolským vzděláním získaným studiem jiného akreditovaného studijního programu než podle písmene a) a studiem pedagogiky podle § 22 odst. 1,
+>
+>   - c) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání s pedagogickým zaměřením,
+>
+>   - d) vyšším odborným vzděláním získaným ukončením jiného akreditovaného vzdělávacího programu než podle písmene c) a studiem pedagogiky podle § 22 odst. 1,
+>
+>   - e) vyšším odborným vzděláním získaným ukončením osmiletého nebo šestiletého vzdělávacího programu oboru vzdělání konzervatoře,
+>
+>   - f) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání s pedagogickým zaměřením, nebo
+>
+>   - g) středním vzděláním s maturitní zkouškou získaným ukončením jiného vzdělávacího programu středního vzdělávání než podle písmene f) a studiem pedagogiky podle § 22 odst. 1.
+>
+> (2) Asistent pedagoga, který vykonává přímou pedagogickou činnost spočívající v pomocných výchovných pracích ve škole, ve školském zařízení pro zájmové vzdělávání, ve školském výchovném a ubytovacím zařízení, ve školském zařízení pro výkon ústavní nebo ochranné výchovy, nebo ve školském zařízení pro preventivně výchovnou péči, získává odbornou kvalifikaci
+>
+>   - a) vzděláním podle odstavce 1,
+>
+>   - b) středním vzděláním s maturitní zkouškou získaným ukončením jiného vzdělávacího programu středního vzdělávání než podle odstavce 1 písm. f) a studiem pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích,
+>
+>   - c) středním vzděláním s výučním listem získaným ukončením vzdělávacího programu středního vzdělávání a
+>
+>     - 1. studiem pedagogiky podle § 22 odst. 1, nebo
+>
+>     - 2. studiem pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích,
+>
+>   - d) středním vzděláním získaným ukončením vzdělávacího programu středního vzdělávání v oboru vzdělání zaměřeném na přípravu asistentů pedagoga,
+>
+>   - e) středním vzděláním získaným ukončením vzdělávacího programu středního vzdělávání a
+>
+>     - 1. studiem pedagogiky podle § 22 odst. 1 písm. b) nebo c), nebo
+>
+>     - 2. studiem pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích, nebo
+>
+>   - f) základním vzděláním a studiem pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83c87b48bf7a6dbbc3ab -->
+
 ### § 21 — Trenér
 
 > **§ 21**
@@ -1371,6 +3067,60 @@ Trenér jako pedagogický pracovník působí na sportovních školách a gymná
 - [ ] Při uznání kvalifikace učitele TV (§ 8 odst. 3 / § 9 odst. 8): jsou splněny podmínky (úvazek do poloviny + souběžná trenérská činnost)?
 
 **Typicky rozhodné důkazy / podklady:** diplom s uvedením specializace a SZZ, osvědčení o trenérské třídě, doklad o absolvování trenérské školy tělovýchovné fakulty.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a2d0f20020bda5a290e5 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 21 — Trenér
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Trenér získává odbornou kvalifikaci
+>
+>   - a) vysokoškolským vzděláním získaným studiem v akreditovaném magisterském studijním programu v oblasti pedagogických věd zaměřené na přípravu učitelů tělesné výchovy pouze pro oblast sportovní specializace odpovídající vykonané státní závěrečné zkoušce,
+>
+>   - b) vysokoškolským vzděláním získaným studiem v akreditovaném studijním programu zaměřeném na tělesnou výchovu a sport pouze pro oblast sportovní specializace odpovídající vykonané státní závěrečné zkoušce,
+>
+>   - c) vyšším odborným vzděláním získaným ukončením akreditovaného vzdělávacího programu vyšší odborné školy v oboru vzdělání zaměřeném na sportovní, tělovýchovné a pohybové činnosti a získáním osvědčení nejméně druhé nejvyšší trenérské třídy příslušné sportovní specializace, nebo
+>
+>   - d) středním vzděláním s maturitní zkouškou získaným ukončením vzdělávacího programu středního vzdělávání nebo středním vzděláním s výučním listem získaným ukončením vzdělávacího programu středního vzdělávání a trenérskou školou tělovýchovné fakulty vysoké školy a získáním osvědčení nejméně druhé nejvyšší trenérské třídy příslušné sportovní specializace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2d0f20020bda5a290e5 -->
 
 ### § 22 — Společná ustanovení k odborné kvalifikaci
 
@@ -1445,6 +3195,78 @@ Tento paragraf je definičním a zároveň „záchranným" ustanovením kvalifi
 
 **Typicky rozhodné důkazy / podklady:** doklady o neúspěšném náboru (inzeráty, evidence uchazečů), pracovní smlouva s vymezením doby a rozsahu, doklady o vzdělání pedagoga, případně osvědčení o doplňkovém studiu podle odst. 1–7.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9919a3b2c17baf0d8544 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 22 — Společná ustanovení k odborné kvalifikaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Studiem pedagogiky se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků uskutečňovaném vysokou školou v programu celoživotního vzdělávání nebo zařízením pro další vzdělávání pedagogických pracovníků
+>
+>   - a) pro učitele druhého stupně základní školy a učitele střední školy s obsahovým zaměřením na pedagogiku, psychologii, obecnou didaktiku a didaktiku zaměřenou na výuku v konkrétních oborech nebo předmětech, v případě zařízení pro další vzdělávání pedagogických pracovníků jen ve spolupráci s vysokou školou realizující studijní program v oblasti vzdělávání učitelství,
+>
+>   - b) pro učitele odborných předmětů střední školy, pro učitele praktického vyučování střední školy, pro učitele odborného výcviku střední školy, pro učitele uměleckých odborných předmětů v základní umělecké škole, střední škole a konzervatoři a pro učitele jazykové školy s právem státní jazykové zkoušky s obsahovým zaměřením na pedagogiku, psychologii, obecnou didaktiku a didaktiku zaměřenou na výuku v konkrétních oborech nebo předmětech,
+>
+>   - c) pro vychovatele, pedagoga volného času a asistenta pedagoga s obsahovým zaměřením na pedagogiku a psychologii nebo na sociální pedagogiku.
+>
+> (2) Studiem k rozšíření odborné kvalifikace se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků uskutečňovaném vysokou školou v programu celoživotního vzdělávání, kterým pedagogičtí pracovníci s odbornou kvalifikací získávají způsobilost vykonávat přímou pedagogickou činnost na jiném stupni nebo druhu školy, způsobilost k výuce dalšího předmětu, způsobilost vykonávat speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami, způsobilost provádět speciálněpedagogické poradenství nebo odbornou kvalifikaci speciálního pedagoga nebo sociálního pedagoga.
+>
+> (3) Studiem pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích, se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků uskutečňovaném vysokou školou v programu celoživotního vzdělávání nebo zařízením pro další vzdělávání pedagogických pracovníků s obsahovým zaměřením na pedagogiku a psychologii.
+>
+> (4) Studiem pro přípravu školských logopedů se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků s obsahovým zaměřením na školskou logopedii.
+>
+> (5) Studiem pro přípravu sociálních pedagogů se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků s obsahovým zaměřením na sociální pedagogiku.
+>
+> (6) Studiem pro přípravu pedagogů volného času vykonávajících dílčí přímou pedagogickou činnost v zájmovém vzdělávání se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků s obsahovým zaměřením na pedagogiku volného času.
+>
+> (7) Doplňujícím didaktickým studiem příslušného cizího jazyka se rozumí vzdělání získané studiem ve vzdělávacím programu akreditovaném pro další vzdělávání pedagogických pracovníků s obsahovým zaměřením na obsah, metody a cíle výuky příslušného cizího jazyka.
+>
+> (8) Učitel, který splňuje předpoklad odborné kvalifikace podle § 7a písm. c), § 9 odst. 1 nebo § 11 odst. 1, získává odbornou kvalifikaci pro výuku dalšího předmětu také vzděláním v akreditovaném bakalářském studijním programu v oblasti vzdělávání související s charakterem tohoto vyučovaného předmětu nebo studiem k rozšíření odborné kvalifikace k získání způsobilosti k výuce dalšího předmětu.
+>
+> (9) Pedagogický pracovník, pro kterého je příslušný cizí jazyk rodným jazykem nebo který jej ovládá na úrovni rodného jazyka, splňuje pro účely tohoto zákona předpoklad odborné kvalifikace pro výuku konverzace v tomto cizím jazyce, získal-li alespoň střední vzdělání s maturitní zkouškou, nebo pro výuku tohoto cizího jazyka, získal-li vysokoškolské vzdělání.
+>
+> (10) Pedagogický pracovník, který vedle přímé pedagogické činnosti, pro kterou má odbornou kvalifikaci, vykonává také další přímou pedagogickou činnost v rámci druhu práce sjednaného v pracovní smlouvě, pro kterou nemá odbornou kvalifikaci, splňuje pro účely tohoto zákona pro tuto další přímou pedagogickou činnost předpoklad podle § 3 odst. 1 písm. b). Věta první se nepoužije u pedagogického pracovníka, který má odbornou kvalifikaci pouze pro příslušný předmět nebo příslušnou aktivitu podle odstavce 9 nebo § 7 odst. 1 písm. d) až h), § 7a písm. d) nebo e), § 8 odst. 2 nebo [[#§ 3|3]], § 9 odst. 7 nebo [[#§ 8|8]], § 9a odst. 2 až 4, § 10 odst. 2 nebo § 11 odst. 4 až 6.
+>
+> (11) Právnická osoba vykonávající činnost školy nebo školského zařízení může zajišťovat výchovu a vzdělávání s výjimkou pedagogicko-psychologické činnosti po nezbytnou dobu a v nezbytném rozsahu pedagogickým pracovníkem, který nesplňuje předpoklad odborné kvalifikace, pokud prokazatelně nemůže tyto činnosti zajistit pedagogickým pracovníkem s odbornou kvalifikací. Tím není dotčena odpovědnost ředitele školy nebo školského zařízení za odbornou a pedagogickou úroveň vzdělávání a školských služeb podle zvláštního právního předpisu21).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a, § 9, § 11, § 3, § 7, § 8, § 9a, § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9919a3b2c17baf0d8544 -->
+
 ### HLAVA III — PRACOVNÍ DOBA, PŘÍMÁ PEDAGOGICKÁ ČINNOST A DOBA TRVÁNÍ PRACOVNÍHO POMĚRU NA DOBU URČITOU PEDAGOGICKÉHO PRACOVNÍKA
 
 ### § 22a — Pracovní doba pedagogických pracovníků
@@ -1503,6 +3325,70 @@ Pracovní doba pedagoga se dělí na vázanou část (přítomnost na pracovišt
 
 **Typicky rozhodné důkazy / podklady:** rozvrh přímé pedagogické činnosti a dohledů, pokyny zaměstnavatele o přítomnosti, pracovní smlouva, případná dohoda o náhradě nákladů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2e5e268c5486e79a61ed generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 22a — Pracovní doba pedagogických pracovníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Pedagogičtí pracovníci vykonávají v pracovní době
+>
+> - a) přímou pedagogickou činnost,
+>
+> - b) práce související s přímou pedagogickou činností.
+>
+> (2) Pedagogický pracovník je povinen být na pracovišti zaměstnavatele v době stanovené rozvrhem jeho přímé pedagogické činnosti, v době stanovené rozvrhem jeho dohledu nad dětmi a žáky, v době zastupování jiného pedagogického pracovníka a v případech, které stanoví v souladu se zákoníkem práce zaměstnavatel.
+>
+> (3) Jde-li o výkon jiné práce než podle odstavce 2, vykonává pedagogický pracovník sjednanou práci
+>
+> - a) v pracovní době, kterou si sám rozvrhuje, a
+>
+> - b) na místě, které si sám určí.
+>
+> (4) Ředitel školy může určit, že distanční prvky výuky v závislosti na jejich podobě vykonává pedagogický pracovník v pracovní době, kterou si sám rozvrhuje, nebo na místě, které si sám určí.
+>
+> (5) Náklady, které pedagogickému pracovníkovi vzniknou výlučně v souvislosti s výkonem práce na jiném místě než na pracovišti zaměstnavatele podle odstavců 3 a [[#§ 4|4]], se nepovažují za náklady vzniklé v souvislosti s výkonem závislé práce, a není-li dohodnuto jinak, hradí je pedagogický pracovník.
+>
+> (6) Při distančních prvcích výuky se za počet vykonaných hodin přímé pedagogické činnosti považuje počet hodin prezenční výuky, které nahrazují.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e5e268c5486e79a61ed -->
+
 ### § 23 — Rozsah přímé pedagogické činnosti
 
 > **§ 23**
@@ -1560,6 +3446,60 @@ Rozsah přímé pedagogické činnosti („úvazek") stanoví ředitel podle na�
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o stanovení rozsahu PPČ, rozvrh, pokyny k zastupování, evidence odučených hodin, případná dohoda o hodinách nad limit.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c51f5ba57aa1e38d0732 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 23 — Rozsah přímé pedagogické činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Týdenní rozsah hodin přímé pedagogické činnosti stanoví ředitel školy pedagogickému pracovníkovi na období školního vyučování nebo na pololetí školního vyučování.1) Ředitel školy s celoročním provozem a ředitel zařízení sociálních služeb stanoví rozsah hodin přímé pedagogické činnosti na období kalendářního roku.
+>
+> (2) Ředitel školy zřizované ministerstvem, krajem, obcí a svazkem obcí stanoví týdenní rozsah hodin přímé pedagogické činnosti podle prováděcího právního předpisu. Při sjednání kratší než stanovené týdenní pracovní doby se úměrně tomu sníží rozsah přímé pedagogické činnosti.
+>
+> (3) Ředitel školy nebo ředitel zařízení sociálních služeb může nařídit pedagogickému pracovníkovi konání přímé pedagogické činnosti nad jemu stanovený rozsah nejvýše v rozsahu 4 hodin týdně, další hodiny s ním může dohodnout.
+>
+> (4) Za přímou pedagogickou činnost nad rozsah hodin stanovený ředitelem školy nebo zařízením sociálních služeb se považuje vykonaná přímá pedagogická činnost podle odstavce 3 i v případě, že pedagogický pracovník nesplnil ředitelem stanovený týdenní rozsah hodin přímé pedagogické činnosti vyplývající z týdenního rozvrhu přímé pedagogické činnosti, protože v době, která se posuzuje jako výkon práce8b), přímou pedagogickou činnost nevykonával. U pedagogických pracovníků s kratší pracovní dobou je přímou pedagogickou činností nad stanovený rozsah přímá pedagogická činnost přesahující týdenní rozsah hodin přímé pedagogické činnosti odpovídající stanovené týdenní pracovní době8c); těmto pedagogickým pracovníkům není možné konání přímé pedagogické činnosti nad stanovený rozsah nařídit.
+>
+> (5) Vláda stanoví nařízením rozsah přímé pedagogické činnosti pedagogických pracovníků škol zřizovaných ministerstvem, krajem, obcí a svazkem obcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c51f5ba57aa1e38d0732 -->
+
 ### § 23a — Pracovní poměr na dobu určitou pedagogického pracovníka
 
 > **§ 23a**
@@ -1611,6 +3551,64 @@ Pracovní poměr pedagoga na dobu určitou musí trvat nejméně 12 měsíců (s
 - [ ] Nebyla zmeškána dvouměsíční lhůta pro návrh k soudu?
 
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva s vymezením doby, písemné oznámení pedagoga s dokladem o doručení, doklady o existenci/neexistenci výjimky (potvrzení o nepřítomnosti nahrazovaného pedagoga, dohoda s odborovou organizací podle § 39 odst. 4 ZP).
+
+
+<!-- LEGAL-REVISION:BEGIN id=87b3f48b50cdfb183b7d generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 23a — Pracovní poměr na dobu určitou pedagogického pracovníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Na pracovní poměr na dobu určitou pedagogického pracovníka se vztahuje [[zákoník práce|zákoník práce]], nestanoví-li tento zákon jinak22).
+>
+> (2) Doba trvání pracovního poměru na dobu určitou pedagogického pracovníka mezi týmiž smluvními stranami činí nejméně 12 měsíců.
+>
+> (3) Ustanovení odstavce 2 se nevztahuje na případy, kdy byla doba trvání pracovního poměru na dobu určitou sjednána s pedagogickým pracovníkem
+>
+> - a) jako náhrada za dočasně nepřítomného pedagogického pracovníka na dobu překážek v práci na straně tohoto pracovníka,
+>
+> - b) který nesplňuje předpoklad odborné kvalifikace podle § 22 odst. 11, nebo
+>
+> - c) za podmínek [[§ 39 odst. 4|§ 39 odst. 4]] [[zákoníku práce|zákoníku práce]].
+>
+> (4) Sjedná-li zaměstnavatel s pedagogickým pracovníkem dobu trvání pracovního poměru na dobu určitou v rozporu s odstavci 2 a [[#§ 3|3]], a oznámil-li pedagogický pracovník před uplynutím sjednané doby písemně zaměstnavateli, že trvá na tom, aby ho dále zaměstnával, platí, že se jedná o pracovní poměr na dobu neurčitou. Návrh na určení, zda byly splněny podmínky uvedené v odstavcích 2 a [[#§ 3|3]], mohou zaměstnavatel i pedagogický pracovník uplatnit u soudu nejpozději do 2 měsíců ode dne, kdy měl pracovní poměr skončit uplynutím sjednané doby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 39, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87b3f48b50cdfb183b7d -->
 
 ### HLAVA IV — DALŠÍ VZDĚLÁVÁNÍ A KARIÉRNÍ SYSTÉM PEDAGOGICKÝCH PRACOVNÍKŮ ŠKOL ZŘIZOVANÝCH MINISTERSTVEM, KRAJEM, OBCÍ A SVAZKEM OBCÍ A ZAŘÍZENÍ SOCIÁLNÍCH SLUŽEB
 
@@ -1674,6 +3672,70 @@ Pedagog má povinnost dále se vzdělávat (odst. 1) a právo na DVPP zvyšujíc
 
 **Typicky rozhodné důkazy / podklady:** evidence čerpání volna k samostudiu, pracovní smlouva s datem nástupu a výší úvazku, plán DVPP, případné doklady o vážných provozních důvodech.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ee8278a9abeb8ae864c generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 24 — Další vzdělávání pedagogických pracovníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Pedagogičtí pracovníci mají po dobu výkonu své pedagogické činnosti povinnost dalšího vzdělávání, kterým si obnovují, udržují a doplňují kvalifikaci.
+>
+> (2) Pedagogičtí pracovníci se mohou účastnit dalšího vzdělávání, kterým si zvyšují kvalifikaci. Zvýšením kvalifikace se podle zvláštního právního předpisu9) rozumí též její získání nebo rozšíření.
+>
+> (3) Ředitel školy organizuje další vzdělávání pedagogických pracovníků podle plánu dalšího vzdělávání, který stanoví po předchozím projednání s odborovou organizací. Při stanovení plánu dalšího vzdělávání je nutno přihlížet ke studijním zájmům pedagogického pracovníka, potřebám a rozpočtu školy.
+>
+> (4) Další vzdělávání pedagogických pracovníků se uskutečňuje zejména
+>
+> - a) v případě podle odstavce 2 na vysokých školách, v zařízeních pro další vzdělávání pedagogických pracovníků a v jiných zařízeních (dále jen „vzdělávací instituce“), jimž byla ministerstvem udělena akreditace podle tohoto zákona,
+>
+> - b) samostudiem, neformálním vzděláváním, sdílením zkušeností,
+>
+> - c) dalším vzděláváním zdravotnických pracovníků podle zvláštního právního předpisu6) v případě učitelů zdravotnických studijních oborů.
+>
+> (5) Dokladem o absolvování dalšího vzdělávání podle odstavce 4 písm. a) je osvědčení vydané vzdělávací institucí, která další vzdělávání uskutečňovala.
+>
+> (6) Ministerstvo stanoví prováděcím právním předpisem podmínky dalšího vzdělávání pedagogických pracovníků a způsob jeho ukončení. Ministerstvo vnitra nebo Ministerstvo obrany stanoví prováděcím právním předpisem druhy a podmínky dalšího vzdělávání pedagogických pracovníků a způsob jeho ukončení pro pedagogické pracovníky škol, které zřizuje.
+>
+> (7) K dalšímu vzdělávání uvedenému v odstavci 4 písm. b) pedagogickým pracovníkům přísluší volno v rozsahu 12 pracovních dnů ve školním roce, nebrání-li tomu vážné provozní důvody nebo účast pedagogického pracovníka na dalším vzdělávání podle odstavce 1 nebo [[#§ 2|2]]; dobu čerpání volna určuje ředitel školy. Za dobu čerpání tohoto volna přísluší náhrada platu, která se rovná výši ušlého platu. Trvá-li pracovní poměr jen část školního roku, přísluší za každý měsíc trvání pracovního poměru jedna dvanáctina volna podle věty první. Při sjednání kratší než stanovené týdenní pracovní doby se úměrně tomu sníží rozsah volna podle věty první. Nevyčerpané volno či jeho poměrná část bez dalších nároků zaniká. Volno podle věty první se pro pracovněprávní účely považuje za překážku v práci na straně zaměstnance. V případě souběhu důvodů snížení rozsahu volna k samostudiu podle vět třetí a čtvrté se sníží rozsah volna k samostudiu podle důvodu, který z hlediska snížení jeho rozsahu převažuje. Jestliže snížení rozsahu volna činí necelý den, zaokrouhlí se na půlden.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ee8278a9abeb8ae864c -->
+
 ### § 24a — Adaptační období učitele
 
 > **§ 24a**
@@ -1717,6 +3779,52 @@ Adaptační období je nový institut (novela 183/2024 Sb.) podporující začí
 - [ ] Určil zaměstnavatel uvádějícího učitele (§ 24b)?
 
 **Typicky rozhodné důkazy / podklady:** pracovní smlouvy s daty vzniku, doklady o dlouhodobých překážkách v práci, dokument o určení uvádějícího učitele.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7b839f9737c2e87c2cbd generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 24a — Adaptační období učitele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Právnická osoba vykonávající činnost školy podporuje začínajícího učitele po dobu jeho adaptačního období, a to zejména tím, že určí uvádějícího učitele. Adaptační období učitele je období od vzniku prvního pracovního poměru učitele do skončení 2 let trvání pracovního poměru učitele k právnické osobě vykonávající činnost školy. Adaptační období učitele se prodlužuje o dobu trvání celodenních překážek v práci, pro které učitel práci nekoná, pokud tyto překážky trvají nepřetržitě déle než 4 měsíce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b839f9737c2e87c2cbd -->
 
 ### § 24b — Uvádějící učitel
 
@@ -1762,6 +3870,52 @@ Uvádějící učitel je mentor začínajícího učitele v adaptačním období
 - [ ] Odpovídá vyplácený příplatek skutečnému výkonu mentorské činnosti?
 
 **Typicky rozhodné důkazy / podklady:** dokument o určení uvádějícího učitele, evidence hospitací a hodnoticích pohovorů, doklad o seznámení s dokumentací, podklady pro příplatek za mentorskou činnost.
+
+
+<!-- LEGAL-REVISION:BEGIN id=49975d715dd0ec1c1b9b generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 24b — Uvádějící učitel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Uvádějící učitel zejména metodicky vede začínajícího učitele po dobu jeho adaptačního období, průběžně a pravidelně s ním hodnotí jeho přímou pedagogickou činnost a výkon prací souvisejících s přímou pedagogickou činností a seznamuje ho s činností školy a s její dokumentací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49975d715dd0ec1c1b9b -->
 
 ### § 24c — Provázející učitel
 
@@ -1809,6 +3963,54 @@ Provázející učitel vede praxi budoucích učitelů — studentů učitelstv�
 
 **Typicky rozhodné důkazy / podklady:** doklady o délce a charakteru praxe provázejícího učitele, dohoda o praxi mezi školou a vysílající institucí, doklad o zařazení účastníka (student učitelství / účastník DPS).
 
+
+<!-- LEGAL-REVISION:BEGIN id=1df6414c1161d9440dcd generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 24c — Provázející učitel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Provázející učitel metodicky vede žáka nebo studenta jiné školy nebo vysoké školy nebo účastníka dalšího vzdělávání pedagogických pracovníků podle § 22 odst. 1 písm. a) připravujícího se v rámci praktického vyučování, praktické přípravy nebo praxe na výkon povolání učitele.
+>
+> (2) Provázejícím učitelem může být fyzická osoba, která splňuje předpoklady podle [[#§ 3|§ 3]] a získala praxi spočívající ve výkonu přímé pedagogické činnosti v délce 5 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1df6414c1161d9440dcd -->
+
 ### § 24d — Třídní učitel
 
 > **§ 24d**
@@ -1854,6 +4056,54 @@ Funkce třídního učitele je nově formalizována přímo v zákoně (novela 1
 - [ ] Je příplatek za třídnictví/specializovanou činnost přiznán v souladu s nařízením vlády a vnitřním předpisem?
 
 **Typicky rozhodné důkazy / podklady:** dokument o přidělení funkce, popis vykonávané činnosti, organizační struktura školy, podklady pro příplatek.
+
+
+<!-- LEGAL-REVISION:BEGIN id=93ff73669ca5b64af7a1 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 24d — Třídní učitel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Třídní učitel v základní a střední škole vykonává ve třídě nebo třídách určených ředitelem školy práce související s přímou pedagogickou činností spočívající zejména v podpoře zdravých a funkčních vztahů mezi žáky, ve vytváření bezpečného a podnětného prostředí pro vývoj, výchovu a vzdělávání žáků ve spolupráci s jejich zákonnými zástupci i zaměstnanci školy a v dalších organizačních a administrativních činnostech.
+>
+> (2) Práce třídního učitele podle odstavce 1 vykonává také vedoucí oddělení na konzervatoři nebo základní umělecké škole a vedoucí studijní skupiny na vyšší odborné škole.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93ff73669ca5b64af7a1 -->
 
 ### § 25 — Akreditace vzdělávacích institucí a vzdělávacích programů
 
@@ -1913,6 +4163,74 @@ Akreditace v DVPP je dvojí (instituce + program), uděluje ji MŠMT na základ�
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o akreditaci instituce a programů, doklad o případné přeměně/nástupnictví, výpis z veřejných seznamů MŠMT, oznámení změn.
 
+
+<!-- LEGAL-REVISION:BEGIN id=76c622232ba8db9d2e3a generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 25 — Akreditace vzdělávacích institucí a vzdělávacích programů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo akredituje pro účely tohoto zákona vzdělávací instituce a jejich vzdělávací programy zaměřené na další vzdělávání pedagogických pracovníků na základě žádosti fyzické nebo právnické osoby (dále jen „žadatel“) a za podmínek stanovených tímto zákonem. Ministerstvo vede evidenci žadatelů. Osobní údaje o fyzických osobách vedené v této evidenci zpracovává ministerstvo v souladu se zvláštním zákonem.10)
+>
+> (2) Ministerstvo při akreditaci vychází ze stanoviska akreditační komise ([[#§ 28|§ 28]]).
+>
+> (3) Ministerstvo vede
+>
+> - a) evidenci žadatelů,
+>
+> - b) seznam akreditovaných vzdělávacích institucí,
+>
+> - c) seznam akreditovaných vzdělávacích programů;
+>
+> aktualizované seznamy podle písmen b) a c) zveřejňuje na počátku školního roku způsobem umožňujícím dálkový přístup.
+>
+> (4) Akreditace vzdělávací instituce nebo akreditace vzdělávacího programu je nepřevoditelná a nepřechází na právní nástupce.
+>
+> (5) Ministerstvo kontroluje činnost akreditovaných vzdělávacích institucí při uskutečňování akreditovaných programů.
+>
+> (6) Zjistí-li ministerstvo při kontrole nedostatky při uskutečňování vzdělávacího programu, vyzve vzdělávací instituci, aby v přiměřené lhůtě zjednala nápravu. Nezjedná-li vzdělávací instituce ve stanovené lhůtě nápravu, ministerstvo jí akreditaci vzdělávací instituce nebo akreditaci vzdělávacího programu odejme.
+>
+> (7) Ministerstvo akreditaci vzdělávací instituce nebo akreditaci vzdělávacího programu odejme i v případě, že na straně vzdělávací instituce nastaly takové okolnosti, které by odůvodňovaly zamítnutí žádosti o akreditaci vzdělávací instituce nebo akreditaci vzdělávacího programu.
+>
+> (8) Při kontrole činnosti akreditovaných vzdělávacích institucí postupuje ministerstvo podle zvláštního právního předpisu.11)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=76c622232ba8db9d2e3a -->
+
 ### § 26 — Akreditace vzdělávací instituce
 
 > **§ 26**
@@ -1962,6 +4280,66 @@ Akreditace vzdělávací instituce se uděluje jen současně s akreditací ales
 - [ ] Je zřejmá doba platnosti (6 let) a podmínka automatického prodlužování?
 
 **Typicky rozhodné důkazy / podklady:** žádost o akreditaci instituce s přiloženým programem, výpis z Rejstříku trestů, doklad o oprávnění ke vzdělávací činnosti, přehled o personálním, technickém a materiálním vybavení a dosavadní činnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=17cfaf4c0059e88ff648 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 26 — Akreditace vzdělávací instituce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Součástí žádosti o akreditaci vzdělávací instituce musí být i žádost o akreditaci alespoň jednoho vzdělávacího programu dalšího vzdělávání pedagogických pracovníků podle [[#§ 27|§ 27]].
+>
+> (2) K žádosti o akreditaci vzdělávací instituce se přiloží
+>
+> - a) oprávnění ke vzdělávací činnosti podle zvláštního právního předpisu,12)
+>
+> - b) přehled o personálním, technickém a materiálním vybavení žadatele o akreditaci vzdělávací instituce v oblasti dalšího vzdělávání pedagogických pracovníků,
+>
+> - c) přehled o dosavadní činnosti žadatele o akreditaci,
+>
+> - d) vzdělávací program, o jehož akreditaci se současně žádá.
+>
+> (3) Ministerstvo udělí akreditaci vzdělávací instituci, jen když žadatel je bezúhonný a pokud ministerstvo současně udělí akreditaci alespoň jednomu vzdělávacímu programu přiloženému žadatelem.
+>
+> (4) Akreditace se uděluje na dobu 6 let. Tato doba se automaticky prodlužuje, dokud trvá akreditace alespoň jednoho vzdělávacího programu téhož žadatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17cfaf4c0059e88ff648 -->
 
 ### § 27 — Akreditace vzdělávacího programu
 
@@ -2015,6 +4393,88 @@ Akreditace vzdělávacího programu DVPP vyžaduje úplnou dokumentaci (cíle, t
 
 **Typicky rozhodné důkazy / podklady:** žádost o akreditaci programu s úplnou dokumentací, doklady o kvalifikaci a praxi lektorů a garanta, dokumentace systému vnitřního hodnocení kvality.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d0e9e9deaf3738c5a825 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 27 — Akreditace vzdělávacího programu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) K žádosti o akreditaci vzdělávacího programu se přiloží
+>
+> - a) kopie akreditace vzdělávací instituce, která bude vzdělávací program uskutečňovat, nebo žádost fyzické nebo právnické osoby o akreditaci vzdělávací instituce,
+>
+> - b) vzdělávací program,
+>
+> - c) soubor pravidel, postupů a nástrojů pro vnitřní hodnocení kvality vzdělávacího programu (dále jen „systém vnitřního hodnocení kvality vzdělávacího programu“) a
+>
+> - d) dokumentace uskutečňování systému vnitřního hodnocení kvality vzdělávacího programu stejného druhu podle [[#§ 22|§ 22]] uskutečňovaného v posledních 3 letech před podáním žádosti, pokud vzdělávací instituce takový vzdělávací program uskutečňovala.
+>
+> (2) Vzdělávací program obsahuje
+>
+> - a) název, formu a cíle vzdělávacího programu a okruh pedagogických pracovníků, jimž je vzdělávací program určen; forma vzdělávacího programu vyjadřuje, zda jde o vzdělávání prezenční, distanční nebo o jejich kombinaci,
+>
+> - b) obsahová témata vzdělávacího programu a jejich anotace,
+>
+> - c) celkovou hodinovou dotaci a vzdělávací plán vzdělávacího programu, který stanoví časovou posloupnost obsahových témat a dobu vzdělávání,
+>
+> - d) jméno, popřípadě jména, a příjmení odborného garanta, který odpovídá za kvalitu vzdělávacího programu a kvalitu jeho uskutečňování, a jeho odborné předpoklady pro vzdělávací program,
+>
+> - e) seznam lektorů s uvedením jejich jmen, příjmení a odborných předpokladů pro vzdělávací program,
+>
+> - f) způsob ukončení a kritéria pro jeho hodnocení a
+>
+> - g) vzor osvědčení podle § 24 odst. 5.
+>
+> (3) Ministerstvo akreditaci neudělí, jestliže
+>
+> - a) žadatel není bezúhonný,
+>
+> - b) přiložený vzdělávací program neodpovídá svým pojetím, obsahem, cíli nebo okruhem pedagogických pracovníků, pro něž je určen, dalšímu vzdělávání pedagogických pracovníků, nebo
+>
+> - c) přiložený vzdělávací program neskýtá záruku řádného uskutečňování vzdělávání, zejména pro nesplnění odborných předpokladů lektorů nebo odborného garanta, pro nevyhovující systém vnitřního hodnocení kvality vzdělávacího programu nebo pro závažné nedostatky v uskutečňování systému vnitřního hodnocení kvality vzdělávacího programu vyplývající z dokumentace předložené podle odstavce 1 písm. d).
+>
+> (4) Akreditace se uděluje na dobu 6 let. Tuto dobu lze na žádost držitele prodloužit o další 3 roky, a to i opakovaně. Pro rozhodování o žádosti o prodloužení akreditace platí ustanovení odstavce 1 až 3 obdobně s tím, že v přílohách žádosti podle odstavce 1 se uvádějí pouze změny oproti přílohám předchozí žádosti o udělení nebo prodloužení akreditace.
+>
+> (5) Ministerstvo stanoví prováděcím právním předpisem podrobnosti o akreditaci vzdělávacího programu týkající se požadavků na vzdělání, praxi a její délku u lektorů a odborného garanta a požadavků na odbornou činnost odborného garanta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0e9e9deaf3738c5a825 -->
+
 ### § 28 — Akreditační komise
 
 > **§ 28**
@@ -2065,6 +4525,64 @@ Akreditační komise (poradní orgán ministra školství pro DVPP, nezaměňova
 
 **Typicky rozhodné důkazy / podklady:** žádost o akreditaci, stanovisko akreditační komise, rozhodnutí MŠMT s odůvodněním, podklady o splnění podmínek akreditace.
 
+
+<!-- LEGAL-REVISION:BEGIN id=8640dfb53df8cf0a3e3f generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 28 — Akreditační komise
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo zřizuje akreditační komisi jako svůj poradní orgán pro udělování a změny akreditací a kontrolní činnost v oblasti akreditací podle § 25 až 27 a [[#§ 28a|28a]].
+>
+> (2) Členy akreditační komise jmenuje a odvolává ministr školství, mládeže a tělovýchovy. Ministerstvo stanoví prováděcím právním předpisem složení akreditační komise a pravidla její činnosti.
+>
+> (3) Akreditační komise posuzuje zejména
+>
+> - a) plnění podmínek pro udělení akreditace,
+>
+> - b) pojetí, obsah a cíle vzdělávacího programu, okruh pedagogických pracovníků, jimž je vzdělávací program určen,
+>
+> - c) záruky řádného uskutečňování vzdělávání podle vzdělávacího programu, zejména odborné předpoklady lektorů nebo odborného garanta, systém vnitřního hodnocení kvality vzdělávacího programu a uskutečňování systému vnitřního hodnocení kvality vzdělávacího programu.
+>
+> (4) Na základě posouzení skutečností uvedených v odstavci 3 zpracuje akreditační komise stanovisko k žádosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25, § 28a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8640dfb53df8cf0a3e3f -->
+
 ### § 28a — Povinnosti vzdělávací instituce
 
 > **§ 28a**
@@ -2110,6 +4628,60 @@ Akreditovaná vzdělávací instituce má trvalé povinnosti: realizovat program
 - [ ] Při zjištění nedostatků: byla dána přiměřená lhůta k nápravě před odebráním akreditace?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o akreditaci, dokumentace o realizaci programu a o systému vnitřního hodnocení kvality, oznámení změn MŠMT, doklady o předpokladech garanta a lektorů.
+
+
+<!-- LEGAL-REVISION:BEGIN id=00adbe94d19721c05988 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 28a — Povinnosti vzdělávací instituce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Vzdělávací instituce je povinna
+>
+> - a) uskutečňovat vzdělávací program v souladu s rozhodnutím o akreditaci a vést a uchovávat o tom dokumentaci,
+>
+> - b) uskutečňovat systém vnitřního hodnocení kvality vzdělávacího programu a vést a uchovávat o tom dokumentaci a
+>
+> - c) oznámit ministerstvu bezodkladně změnu sídla nebo názvu a zrušení nebo zánik, nejde-li o vzdělávací instituci zapsanou ve školském rejstříku, a změnu jiných skutečností důležitých pro uskutečňování vzdělávacího programu; v případě změn, které by odůvodňovaly zamítnutí žádosti o akreditaci vzdělávacího programu, ministerstvo vyzve vzdělávací instituci, aby v přiměřené lhůtě zjednala nápravu; nezjedná-li vzdělávací instituce ve stanovené lhůtě nápravu, ministerstvo jí akreditaci vzdělávacího programu odejme.
+>
+> (2) Ministerstvo stanoví prováděcím právním předpisem rozsah, způsob vedení a dobu uchovávání dokumentace o uskutečňování vzdělávacího programu a o uskutečňování systému vnitřního hodnocení kvality vzdělávacího programu a požadavky na systém vnitřního hodnocení kvality vzdělávacího programu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00adbe94d19721c05988 -->
 
 ### § 29 — Kariérní systém
 
@@ -2166,6 +4738,86 @@ Kariérní systém podle § 29 je pouze rámcem; úplný kariérní řád dosud 
 - [ ] Není uplatňován neexistující automatický nárok na vyšší stupeň z titulu pouhé praxe?
 
 **Typicky rozhodné důkazy / podklady:** doklad o délce praxe, osvědčení o způsobilosti k specializované činnosti (s náležitostmi podle § 29 odst. 6), vnitřní platový předpis a doklad o výkonu specializované činnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=fce7feba7fd62aff33c6 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 29 — Kariérní systém
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Kariérní systém je soubor pravidel, stanovených pro zařazení pedagogických pracovníků do kariérních stupňů.
+>
+> (2) Kariérní stupeň je určen popisem činností, odbornou kvalifikací, popřípadě dalšími kvalifikačními předpoklady a systémem hodnocení, které musí pedagogický pracovník plnit, aby tyto činnosti mohl vykonávat.
+>
+> (3) Zařazení pedagogického pracovníka do vyššího kariérního stupně je podmíněno
+>
+> - a) výkonem činností
+>
+>   - 1. specializovaných, nebo metodických, nebo metodologických, nebo náročnějších zejména z hlediska psychické námahy a náročnosti na přípravu,
+>
+>   - 2. řídících,
+>
+> - b) plněním odborné kvalifikace podle § 6 až 21 a u činností, které stanoví ministerstvo prováděcím právním předpisem, též plněním dalších kvalifikačních předpokladů.
+>
+> (4) Dalšími kvalifikačními předpoklady jsou
+>
+> - a) pedagogická praxe, kterou se rozumí výkon přímé pedagogické činnosti,
+>
+> - b) osvědčení o způsobilosti k výkonu specializované nebo metodické nebo metodologické nebo řídící činnosti vydané akreditovanou vzdělávací institucí (dále jen „osvědčení o způsobilosti“).
+>
+> (5) Podmínky zařazení pedagogického pracovníka do kariérního stupně, popis činností, délku pedagogické praxe, podmínky získávání osvědčení a systém hodnocení stanoví ministerstvo prováděcím právním předpisem vydaným podle § 24 odst. 6.
+>
+> (6) Osvědčení o způsobilosti podle odstavce 4 písm. b) vydané pedagogickému pracovníkovi musí obsahovat tyto náležitosti
+>
+> - a) jméno, příjmení, titul, datum a místo narození pedagogického pracovníka,
+>
+> - b) číslo akreditace příslušného vzdělávacího programu a pořadové číslo osvědčení,
+>
+> - c) název a sídlo vzdělávací instituce a název příslušného vzdělávacího programu,
+>
+> - d) datum vydání,
+>
+> - e) razítko vzdělávací instituce,
+>
+> - f) podpis oprávněného pracovníka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fce7feba7fd62aff33c6 -->
 
 ### § 29a — (definice bezúhonnosti)
 
@@ -2227,6 +4879,66 @@ Bezúhonnost (§ 29a) je nutným předpokladem výkonu činnosti pedagoga, kter�
 
 **Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů (u cizinců odpovídající doklad nebo čestné prohlášení), pravomocný rozsudek s datem právní moci, doklad o oznámení zaměstnance.
 
+
+<!-- LEGAL-REVISION:BEGIN id=656097c190781a4cfb0e generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 29a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Za bezúhonnou se pro účely tohoto zákona nepovažuje
+>
+> - a) při posuzování předpokladů pro výkon činnosti pedagogického pracovníka ([[#§ 3|§ 3]]) nebo žádosti o udělení akreditace vzdělávací instituce ([[#§ 26|§ 26]]) nebo akreditace vzdělávacího programu ([[#§ 27|§ 27]]) fyzická osoba, která byla pravomocně odsouzena
+>
+> - 1. za trestný čin spáchaný úmyslně, nebo
+>
+> - 2. za trestný čin spáchaný z nedbalosti v souvislosti s výkonem činnosti pedagogického pracovníka,
+>
+> pokud se na ni podle zákona nehledí, jako by nebyla odsouzena,
+>
+> - b) při posuzování žádosti o udělení akreditace vzdělávací instituce ([[#§ 26|§ 26]]) nebo akreditace vzdělávacího programu ([[#§ 27|§ 27]]) právnická osoba, která byla pravomocně odsouzena pro trestný čin, pokud pro tento trestný čin neskýtá záruku řádného uskutečňování akreditovaného vzdělávacího programu a pokud se na ni podle zákona nehledí, jako by odsouzena nebyla.
+>
+> (2) Fyzická osoba prokazuje bezúhonnost v případě podle odstavce 1 písm. a) před vznikem pracovněprávního vztahu nebo při podání žádosti o akreditaci předložením výpisu z evidence Rejstříku trestů; výpis nesmí být starší než 3 měsíce. Cizinec, který je nebo byl státním občanem jiného členského státu Evropské unie nebo má nebo měl adresu bydliště v jiném členském státě Evropské unie, může místo výpisu z evidence obdobné Rejstříku trestů doložit bezúhonnost výpisem z Rejstříku trestů s přílohou obsahující informace, které jsou zapsané v evidenci trestů jiného členského státu Evropské unie podle jiného právního předpisu15). Cizinec, který není nebo nebyl státním občanem jiného členského státu Evropské unie nebo nemá nebo neměl adresu bydliště v jiném členském státě Evropské unie, prokazuje bezúhonnost dokladem obdobným výpisu z evidence Rejstříku trestů státu, jehož je státním příslušníkem, nebo výpisem z evidence Rejstříku trestů, v jehož příloze jsou tyto informace obsaženy. Nevydává-li tento stát výpis z evidence trestů nebo rovnocenný doklad, předloží fyzická osoba čestné prohlášení o bezúhonnosti učiněné před notářem nebo jiným příslušným orgánem státu, jehož je občanem, nebo před notářem nebo jiným příslušným orgánem státu posledního pobytu. Tyto doklady nesmí být starší než 3 měsíce. V průběhu trvání pracovněprávního vztahu je pedagogický pracovník povinen informovat do 10 pracovních dnů ředitele školy nebo ředitele zařízení sociálních služeb o tom, že byl pravomocně odsouzen za trestný čin, jímž by mohl pozbýt předpoklad bezúhonnosti; do 1 měsíce od nabytí právní moci rozsudku předloží pedagogický pracovník nový výpis z evidence Rejstříku trestů.
+>
+> (3) Bezúhonnost právnické osoby se v případě podle odstavce 1 písm. b) prokazuje výpisem z evidence Rejstříku trestů. Výpis z evidence Rejstříku trestů si vyžádá ministerstvo podle jiného právního předpisu15). Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 26, § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=656097c190781a4cfb0e -->
+
 ### HLAVA V — SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
 
 ### § 30 — (uznání kvalifikace podle dosavadních předpisů)
@@ -2272,6 +4984,52 @@ Ustanovení § 30 chrání nabytá práva — kdo ke dni účinnosti ZPP (1. led
 
 **Typicky rozhodné důkazy / podklady:** doklady o vzdělání a způsobilosti podle dosavadních předpisů, doklad o výkonu pedagogické činnosti k 1. lednu 2005.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5d4c00be20373b4a7bc6 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Za pedagogické pracovníky podle tohoto zákona se považují též pedagogičtí pracovníci, kteří ke dni účinnosti tohoto zákona splňují předpoklady pro výkon činnosti pedagogického pracovníka podle dosavadních právních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d4c00be20373b4a7bc6 -->
+
 ### § 31 — (uznání kvalifikačních předpokladů z DVPP)
 
 > **§ 31**
@@ -2314,6 +5072,52 @@ Ustanovení § 31 doplňuje § 30 — další kvalifikační předpoklady (osvě
 - [ ] Není neoprávněně požadováno opakování již získaného studia?
 
 **Typicky rozhodné důkazy / podklady:** osvědčení o specializačním/dalším studiu podle dosavadních předpisů, doklad o době jeho získání.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1cdc20a33849c646346f generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Další kvalifikační předpoklady získané v rámci dalšího vzdělávání pedagogických pracovníků ke dni nabytí účinnosti tohoto zákona podle dosavadních právních předpisů zůstávají nedotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1cdc20a33849c646346f -->
 
 ### § 32 — (pokračování činnosti bez splnění kvalifikace)
 
@@ -2363,6 +5167,62 @@ Ustanovení § 32 chrání starší pedagogy bez formální kvalifikace prostře
 
 **Typicky rozhodné důkazy / podklady:** doklady o datu narození a délce praxe k rozhodnému dni, doklad o druhu školy, u psychologa magisterský diplom z psychologie.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7e81105bde969bf2f008 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 32
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která nesplňuje předpoklad podle § 3 odst. 1 písm. b), může vykonávat přímou pedagogickou činnost po dni nabytí účinnosti tohoto zákona
+>
+> - a) pokud ke dni účinnosti tohoto zákona dosáhla 50 let věku a dlouhodobým výkonem přímé pedagogické činnosti na příslušném druhu nebo typu školy nejméně po dobu 15 let prokázala schopnost výkonu požadované činnosti,
+>
+> - b) nejdéle po dobu deseti let, pokud v této době nezahájí studium, kterým potřebný předpoklad získá, a toto studium úspěšně ukončí,
+>
+> - c) jestliže v době vzniku základního pracovněprávního vztahu neuskutečňovaly vysoké školy pro výuku odborných předmětů ve střední a vyšší odborné škole akreditovaný magisterský studijní program příslušného studijního oboru; v tomto případě se získáním nejvyššího dosažitelného vzdělání v příslušném oboru považuje předpoklad odborné kvalifikace pro pracovněprávní účely za splněný, nebo
+>
+> - d) pokud ke dni 1. ledna 2015 dosáhla alespoň 55 let věku a pokud vykonávala přímou pedagogickou činnost na příslušném druhu školy nejméně po dobu 20 let.
+>
+> (2) Ustanovení odstavce 1 se nevztahuje na psychologa.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e81105bde969bf2f008 -->
+
 ### § 32a — (ředitel u společenství obcí)
 
 > **§ 32a**
@@ -2408,6 +5268,54 @@ Ustanovení § 32a je zvláštní normou pro pedagogy zaměstnané společenstv�
 
 **Typicky rozhodné důkazy / podklady:** zřizovací dokumenty společenství obcí, pracovní smlouva pedagoga, vnitřní úprava rozdělení pravomocí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=654468f0b68d61d35cf9 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 32a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> (1) Výkon činnosti ředitele školy nebo ředitele zařízení sociálních služeb podle § 23 odst. 1 a [[#§ 2|2]], § 24 odst. 3 a [[#§ 7|7]] a § 29a odst. 2 vůči pedagogickému pracovníkovi, který je zaměstnancem společenství obcí nebo právnické osoby zřízené nebo založené společenstvím obcí, přísluší zaměstnavateli tohoto pedagogického pracovníka.
+>
+> (2) U pedagogického pracovníka uvedeného v odstavci 1 se § 23 odst. 3 a § 24a až 24d nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23, § 2, § 24, § 7, § 29a, § 24a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=654468f0b68d61d35cf9 -->
+
 ### § 33 — (kvalifikace ředitele před účinností zákona)
 
 > **§ 33**
@@ -2451,6 +5359,52 @@ Ustanovení § 33 je přechodnou úpravou pro dosavadní ředitele k 1. lednu 20
 - [ ] Nemá kvalifikační ekvivalent (VŠ obor řízení školství) podle § 5 odst. 3?
 
 **Typicky rozhodné důkazy / podklady:** jmenovací dekret a doklad o délce výkonu funkce ředitele k 1. 1. 2005, osvědčení o studiu pro ředitele nebo diplom z oboru řízení školství.
+
+
+<!-- LEGAL-REVISION:BEGIN id=3a905b4e10ad743b6c31 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 33
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Ředitel školy zřizované ministerstvem, krajem, obcí nebo svazkem obcí, který nezískal znalosti v oblasti řízení školství absolvováním studia pro ředitele škol v rámci dalšího vzdělávání pedagogických pracovníků podle § 24 odst. 4 písm. a) a vykonává činnost ředitele školy ke dni nabytí účinnosti tohoto zákona, může vykonávat tuto činnost nejdéle po dobu 5 let ode dne nabytí účinnosti tohoto zákona, pokud nevykonává činnost ředitele školy alespoň 10 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a905b4e10ad743b6c31 -->
 
 ### § 34 — (lhůta pro rozhodnutí o akreditaci)
 
@@ -2496,6 +5450,52 @@ Pro rozhodnutí o akreditaci vzdělávací instituce nebo programu platí zvlá�
 
 **Typicky rozhodné důkazy / podklady:** žádost o akreditaci s datem doručení, doklady o běhu a případném přerušení řízení, podnět/žaloba proti nečinnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=302bf5de21c6a9c85b31 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 34
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> O žádosti k udělení akreditace vzdělávací instituce nebo vzdělávacího programu ministerstvo rozhodne do 120 dnů od jejího doručení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=302bf5de21c6a9c85b31 -->
+
 ### § 35 — (vztah ke služebním poměrům)
 
 > **§ 35**
@@ -2540,6 +5540,52 @@ Ustanovení § 35 řeší pedagogy ve školách zřizovaných MV, MO a MSp, jeji
 
 **Typicky rozhodné důkazy / podklady:** doklad o služebním poměru, zřizovací listina školy, popis vykonávané činnosti, příslušný služební zákon.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c553861980e254e68b27 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 35
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Služební poměry pedagogických pracovníků škol zřizovaných Ministerstvem vnitra, Ministerstvem obrany a Ministerstvem spravedlnosti podle [[§ 172 odst. 1 až 3|§ 172 odst. 1 až 3]] [[školského zákona|školského zákona]] se řídí zákony upravujícími služební poměr příslušníků bezpečnostních sborů a služební poměr vojáků z povolání. Na pedagogické pracovníky škol a školských zařízení zřizovaných Ministerstvem vnitra a Ministerstvem obrany podle [[§ 172 odst. 1 až 3|§ 172 odst. 1 až 3]] [[školského zákona|školského zákona]] se ustanovení [[#§ 5|§ 5]], § 9 odst. 1, [[#§ 2|2]] a [[#§ 4|4]], [[#§ 11|§ 11]], [[#§ 24|§ 24]] a [[#§ 29|29]] vztahují přiměřeně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 172, § 5, § 9, § 2, § 4, § 11, § 24, § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c553861980e254e68b27 -->
+
 ### § 36 — (přechodná úprava pro ředitele)
 
 > **§ 36**
@@ -2582,6 +5628,52 @@ Ustanovení § 36 chrání dosavadní ředitele k 1. lednu 2005 před zpětným 
 - [ ] Je otázka studia pro ředitele řešena samostatně podle § 5 odst. 2 a § 33?
 
 **Typicky rozhodné důkazy / podklady:** jmenovací dekret, doklad o výkonu funkce ředitele k 1. 1. 2005, doklady o délce praxe a o studiu pro ředitele.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a86d3b6e637f5e55b8b5 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Na osobu vykonávající funkci ředitele školy ke dni nabytí účinnosti tohoto zákona se ustanovení § 5 odst. 1 písm. a), b) a c) nevztahují.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a86d3b6e637f5e55b8b5 -->
 
 ### § 37 — Zrušovací ustanovení
 
@@ -2634,6 +5726,63 @@ Zrušovací ustanovení § 37 odstranilo k 1. lednu 2005 dosavadní podzákonnou
 
 **Typicky rozhodné důkazy / podklady:** text § 37 ZPP, datum účinnosti zákona, doklady o době získání kvalifikace (pro posouzení nabytých práv).
 
+
+<!-- LEGAL-REVISION:BEGIN id=77b40c313bedcdb64508 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 37 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství|Nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství]].
+>
+> - 2. [[Nařízení vlády č. 153/1999 Sb., kterým se mění nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství|Nařízení vlády č. 153/1999 Sb., kterým se mění nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství]].
+>
+> - 3. [[Nařízení vlády č. 400/2002 Sb|Nařízení vlády č. 400/2002 Sb.]], kterým se mění [[nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství|nařízení vlády č. 68/1997 Sb., kterým se stanoví míra vyučovací povinnosti učitelů a míra povinnosti výchovné práce ostatních pedagogických pracovníků ve školství]].
+>
+> - 4. [[Vyhláška č. 139/1997 Sb., o podmínkách odborné a pedagogické způsobilosti pedagogických pracovníků a o předpokladech kvalifikace výchovných poradců|Vyhláška č. 139/1997 Sb., o podmínkách odborné a pedagogické způsobilosti pedagogických pracovníků a o předpokladech kvalifikace výchovných poradců]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 68/1997 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 153/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 400/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 139/1997 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77b40c313bedcdb64508 -->
+
 ### § 40 — Změna zákona o ústavní a ochranné výchově
 
 > **§ 40**
@@ -2685,6 +5834,65 @@ Ustanovení § 40 je doprovodnou novelou zákona č. 109/2002 Sb., která sjedno
 
 **Typicky rozhodné důkazy / podklady:** aktuální znění § 18 zákona č. 109/2002 Sb., text § 2 ZPP, doklady o charakteru vykonávané činnosti pedagoga v zařízení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=343b254636a8fa7d000b generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> [[Zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů|Zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů]], se mění takto:
+>
+> - 1. V § 18 se odstavec 1 včetně poznámky pod čarou zrušuje.
+>
+> Dosavadní odstavce 2 a 3 se označují jako odstavce 1 a 2.
+>
+> - 2. V § 18 odst. 1 se slovo „pracovníka“ nahrazuje slovy „pracovníka8a) v zařízení nebo ve středisku“.
+>
+> - 3. Poznámka pod čarou č. 8a) zní:
+>
+> „8a) § 2 odst. 1 zákona č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů.“.
+>
+> - 4. V § 18 odst. 2 se za slovo „pracovníci“ vkládají slova „v zařízení nebo ve středisku“.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18, § 2
+
+##### Souvisící předpisy
+
+- zákon č. 109/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 563/2004 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=343b254636a8fa7d000b -->
+
 ### § 42 — Účinnost
 
 > **§ 42**
@@ -2730,6 +5938,52 @@ Zákon nabyl účinnosti 1. ledna 2005 (§ 42) a spolu se školským zákonem tv
 **Typicky rozhodné důkazy / podklady:** text příslušné novely a datum její účinnosti, aktuální (konsolidované) znění zákona, vymezení rozhodné doby posuzovaného vztahu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=64d74691342584d80a99 generator=2026-07-17.4 source_sha256=51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/563-2004 Zákon o pedagogických pracovnících a o změně některých zákonů.md`; identifikátor verze: `SB-2004-00563_2026-01-01`; SHA-256: `51c9b92684e67a007558a59bfd3da77c114fb8576d502eebb3cbcef16c6b0e93`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2005.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64d74691342584d80a99 -->
 
 ## Shrnutí
 
